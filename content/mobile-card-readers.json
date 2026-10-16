@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-16",
+  "slug": "mobile-card-readers",
+  "title": "Mobile Card Readers for Market Stalls, Trades & Salons",
+  "description": "Portable and 4G card readers for market traders, tradespeople, mobile hairdressers and salons: no-contract options, payouts and taking payments on the go.",
+  "eyebrow": "Mobile · Market stalls · Trades · Salons",
+  "h1": "Mobile card readers for traders on the move",
+  "intro": "If you take payments at markets, events, customers’ homes or a small salon, a mobile card reader is usually the simplest and cheapest way to start. Here’s how the options compare.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1654263937085-48fb17a63d66",
+    "alt": "Two people exchanging a payment card across a table",
+    "credit": "Nathana Rebouças",
+    "creditUrl": "https://unsplash.com/@nathanareboucas"
+  },
+  "keywords": [
+    "mobile card reader",
+    "portable card machine",
+    "4g card machine",
+    "card machine for market stall",
+    "card machine for tradesmen",
+    "card machine for hairdresser",
+    "salon card machine",
+    "card reader no contract",
+    "sumup solo",
+    "zettle reader",
+    "square reader"
+  ],
+  "cardText": "4G and Bluetooth readers with no monthly fee.",
+  "sections": [
+    {
+      "h2": "Bluetooth reader or 4G terminal?",
+      "html": "<ul><li><strong>Bluetooth readers</strong> pair with your phone, which provides the screen and internet. Cheapest to buy. Examples: Square Reader, PayPal/Zettle Reader, SumUp Solo Lite.</li><li><strong>Standalone 4G terminals</strong> have their own SIM and screen, so your phone can stay in your pocket and signal doesn’t depend on it. Examples: SumUp Solo, Square Terminal, Teya and Dojo’s portable machines, Lloyds Cardnet and Barclaycard mobile options.</li><li><strong>No hardware at all:</strong> <a href=\"/tap-to-pay-on-phone/\">Tap to Pay</a> turns a compatible iPhone or Android phone into a contactless terminal.</li></ul>"
+    },
+    {
+      "h2": "Market stalls and events",
+      "html": "<p>Signal at outdoor markets can be patchy. A terminal that can store payments offline, or a 4G device on a good network, saves lost sales. Check battery life for a full day and carry a power bank. Pay-as-you-go pricing suits seasonal trading because there’s no monthly fee in quiet months.</p>"
+    },
+    {
+      "h2": "Tradespeople and mobile services",
+      "html": "<p>Plumbers, electricians, cleaners and mobile mechanics often take larger payments at the end of a job, or in advance. Look for invoices, pay by link and keyed (card-not-present) payments too, and check those rates: they’re usually higher than in-person rates (Square publishes 2.5% for keyed and invoice payments, for example). Our sister site <a href=\"https://tradesstation.shmor.ai/\">TradesStation</a> covers tools and services for trades.</p>"
+    },
+    {
+      "h2": "Hairdressers, barbers and beauty salons",
+      "html": "<p>Salons benefit from a reader linked to a booking app, so deposits, no-show fees and payments sit with the appointment. Square Appointments, SumUp and specialist salon software with integrated payments are common choices. Agree deposit and cancellation terms with clients in advance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the cheapest card reader with no contract?",
+      "a": "Published pay-as-you-go rates for in-person UK cards were 1.69% (SumUp) and 1.75% (Square, PayPal Point of Sale, Lloyds Cardnet mPOS) in October 2026, with no monthly fee. Readers cost a one-off amount; check each provider’s current hardware price."
+    },
+    {
+      "q": "Do mobile card readers work without signal?",
+      "a": "Some terminals can take a limited number of payments offline and process them when signal returns, at your risk if a card is later declined. Check your provider’s offline mode terms."
+    }
+  ],
+  "related": [
+    "tap-to-pay-on-phone",
+    "card-machines",
+    "card-machine-fees",
+    "business-types"
+  ]
+}

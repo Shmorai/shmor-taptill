@@ -1,0 +1,74 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog/can-you-charge-for-card-payments",
+  "type": "post",
+  "date": "2026-10-14",
+  "eyebrow": "Rules & regulation",
+  "title": "Can You Charge Customers for Paying by Card in the UK?",
+  "description": "UK card surcharge rules for businesses: the 2018 ban on consumer card surcharges, what’s allowed for business cards, minimum spends and cash discounts.",
+  "h1": "Can you charge customers for paying by card?",
+  "intro": "Card fees eat into margins, so it’s tempting to pass them on. In the UK, the law says no for most consumer payments. Here’s what you can and can’t do.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1617188293897-c42f7a74a316",
+    "alt": "A white and black cash register on a shop counter",
+    "credit": "Mohrez Labaf",
+    "creditUrl": "https://unsplash.com/@mohrezlabaf"
+  },
+  "keywords": [
+    "card surcharge",
+    "surcharge",
+    "card surcharge ban",
+    "charging for card payments",
+    "card fee surcharge uk",
+    "minimum card spend",
+    "cash discount"
+  ],
+  "cardText": "The surcharge ban, business cards, minimum spends and discounts.",
+  "sources": [
+    {
+      "title": "GOV.UK: payment surcharges guidance",
+      "url": "https://www.gov.uk/government/publications/payment-surcharges"
+    },
+    {
+      "title": "ACS: payment surcharging advice for retailers",
+      "url": "https://www.acs.org.uk/advice/payment-surcharging"
+    },
+    {
+      "title": "legislation.gov.uk: Consumer Rights (Payment Surcharges) Regulations 2012",
+      "url": "https://www.legislation.gov.uk/uksi/2012/3110/contents"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The short answer",
+      "html": "<p class=\"callout\">Since <strong>13 January 2018</strong>, UK businesses have been banned from charging consumers extra for paying with consumer debit or credit cards, and for most other common electronic payment methods. The rules are in the Consumer Rights (Payment Surcharges) Regulations 2012, as amended.</p>"
+    },
+    {
+      "h2": "What’s banned",
+      "html": "<ul><li>Adding a fee for paying by a consumer debit or credit card, in a shop, online or over the phone.</li><li>Surcharges on many other consumer payment methods covered by the rules, such as many e-money and payment-account transfers.</li><li>Disguising a surcharge as a “service fee” that only applies to card payers.</li></ul>"
+    },
+    {
+      "h2": "What’s still allowed",
+      "html": "<ul><li><strong>Commercial (business) cards:</strong> you may be able to surcharge payments made with a commercial card, but only up to the direct cost to you, and you must show it clearly. GOV.UK’s guidance explains the details.</li><li><strong>Discounts for other methods:</strong> offering a lower price for cash or bank transfer is generally treated differently from a surcharge. Make sure prices are clear and not misleading.</li><li><strong>Optional service charges and tips:</strong> a clearly shown, optional service charge that applies regardless of payment method isn’t a card surcharge. If staff receive tips, the Employment (Allocation of Tips) Act 2023 applies: see <a href=\"/card-machines-for-hospitality/\">hospitality guide</a>.</li><li><strong>Minimum card spends:</strong> UK law doesn’t ban them, but card scheme rules and your provider’s terms may restrict them. Check before you put up a sign.</li></ul>"
+    },
+    {
+      "h2": "Better ways to cut card costs",
+      "html": "<p>Instead of surcharging, reduce the cost at source: compare rates once a year, remove per-transaction authorisation fees if your sales are small, and return terminals you don’t use. See <a href=\"/card-machine-fees/\">card machine fees</a> and <a href=\"/switch-card-machine-provider/\">switching provider</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I charge a fee for paying by credit card?",
+      "a": "Not for consumer credit cards, since January 2018. Surcharges on commercial cards may be allowed up to your direct cost."
+    },
+    {
+      "q": "What happens if a business surcharges illegally?",
+      "a": "Customers can ask for a refund of the surcharge, and Trading Standards can take action. Report concerns to Citizens Advice."
+    }
+  ],
+  "related": [
+    "card-machine-fees",
+    "card-machines-for-shops",
+    "card-machines-for-hospitality"
+  ]
+}

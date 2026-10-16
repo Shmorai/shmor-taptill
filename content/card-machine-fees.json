@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-16",
+  "slug": "card-machine-fees",
+  "nav": "Fees",
+  "navOrder": 3,
+  "title": "Card Machine Fees UK: What You Really Pay to Take Cards",
+  "description": "How UK card machine fees work: flat rates vs interchange-plus, monthly terminal fees, authorisation and PCI charges, with published rates and worked examples.",
+  "eyebrow": "Fees explained",
+  "h1": "Card machine fees explained",
+  "intro": "Every card payment has a cost. Here’s where the money goes, what each fee on a quote means, and how to work out which pricing model is cheapest for your takings.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564986410613-97e0b371efe5",
+    "alt": "A black adding calculator on a desk",
+    "credit": "Dan Meyers",
+    "creditUrl": "https://unsplash.com/@dmey503"
+  },
+  "keywords": [
+    "card machine fees",
+    "card processing fees uk",
+    "merchant fees",
+    "transaction fees",
+    "interchange fees",
+    "cheapest card machine",
+    "card fees for small business",
+    "authorisation fee",
+    "pci compliance fee"
+  ],
+  "cardText": "Flat rates, interchange, monthly fees and the hidden extras.",
+  "sections": [
+    {
+      "h2": "Where the money goes on every card payment",
+      "html": "<p>When a customer pays by card, three parties take a share of the fee you pay:</p><ul><li><strong>Interchange:</strong> paid to the customer’s card issuer. For UK consumer cards it is capped at 0.2% for debit and 0.3% for credit under the UK’s Interchange Fee Regulation. Business and many international cards are not capped the same way and cost more.</li><li><strong>Scheme fees:</strong> paid to Visa, Mastercard and other card schemes.</li><li><strong>Acquirer margin:</strong> what your card machine provider or acquirer keeps for processing, the terminal, support and risk.</li></ul><p>Pay-as-you-go providers wrap all three into one flat percentage. Contract providers may show them separately (often called <em>interchange++</em> or <em>interchange-plus-plus</em>) or as blended rates per card type.</p>"
+    },
+    {
+      "h2": "Published pay-as-you-go rates",
+      "html": "<div class=\"figure-row\"><div class=\"figure\"><b>1.69%</b><span>SumUp, pay as you go</span></div><div class=\"figure\"><b>1.75%</b><span>Square, UK cards</span></div><div class=\"figure\"><b>1.75%</b><span>PayPal Point of Sale (Zettle)</span></div><div class=\"figure\"><b>1.75%</b><span>Lloyds Cardnet mPOS</span></div></div><p class=\"source-note\">In-person payments, as published by each provider on 16 October 2026: <a href=\"https://www.sumup.com/en-gb/pricing/\" rel=\"nofollow noopener\" target=\"_blank\">SumUp</a>, <a href=\"https://squareup.com/gb/en/pricing\" rel=\"nofollow noopener\" target=\"_blank\">Square</a>, <a href=\"https://www.zettle.com/gb/pricing\" rel=\"nofollow noopener\" target=\"_blank\">PayPal POS / Zettle</a>, <a href=\"https://www.lloydsbank.com/business/take-payments-with-cardnet/card-readers/mpos.html\" rel=\"nofollow noopener\" target=\"_blank\">Lloyds Cardnet</a>. Keyed, online, invoice and some international cards cost more.</p><p>On flat rates the maths is simple: £5,000 of monthly card takings costs £84.50 at 1.69% or £87.50 at 1.75%.</p>"
+    },
+    {
+      "h2": "Every fee you might see on a quote",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Fee</th><th>What it is</th><th>Watch out for</th></tr></thead><tbody><tr><td>Transaction rate</td><td>A percentage of each sale, flat or by card type</td><td>Different rates for debit, credit, business and non-UK cards</td></tr><tr><td>Authorisation fee</td><td>A fixed fee per transaction (often a few pence)</td><td>Hurts businesses with lots of small sales</td></tr><tr><td>Terminal fee</td><td>Monthly rental or subscription per machine</td><td>Separate long leases that outlast the payments contract</td></tr><tr><td>Minimum monthly charge</td><td>Topped up if your fees fall below a set amount</td><td>Seasonal businesses in quiet months</td></tr><tr><td>PCI compliance fee</td><td>Charged if you don’t complete your yearly security check</td><td>Easy to avoid by completing the questionnaire</td></tr><tr><td>Refund and chargeback fees</td><td>Per refund or disputed payment</td><td>Retailers with many returns</td></tr><tr><td>Early termination fee</td><td>Cost of leaving before the minimum term ends</td><td>Auto-renewal clauses</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Flat rate or quoted rate: which is cheaper?",
+      "html": "<p>Flat rates are easy to budget but include a margin on every card. A quoted rate can be lower per transaction, but monthly fees and per-transaction charges come on top. To compare fairly:</p><ol><li>Take a recent month’s takings and number of transactions (your current statement shows both).</li><li>Work out the flat-rate cost: takings × rate.</li><li>Work out the quoted cost: (takings × quoted rate) + (transactions × authorisation fee) + monthly fees.</li><li>Repeat for a quiet month, to see the effect of minimum charges.</li></ol><p class=\"callout\">Subscription plans sit in between. SumUp’s Payments Plus costs £19 a month for a headline 0.99% rate, which beats 1.69% pay as you go once eligible card takings pass about £2,714 a month (£19 ÷ 0.70%). See <a href=\"/blog/pay-as-you-go-vs-subscription-card-fees/\">our worked example</a>.</p>"
+    },
+    {
+      "h2": "Five ways to cut your card fees",
+      "html": "<ul><li><strong>Get quotes once a year</strong>, using your latest statement. Large acquirers must remind you when your minimum term ends.</li><li><strong>Remove authorisation fees</strong> if your average sale is small, or choose a flat rate.</li><li><strong>Don’t pay for idle terminals:</strong> return machines you don’t use.</li><li><strong>Complete your PCI questionnaire</strong> to avoid non-compliance fees.</li><li><strong>Don’t surcharge consumers to recover fees:</strong> it’s not allowed. <a href=\"/blog/can-you-charge-for-card-payments/\">See the rules</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are typical card machine fees in the UK?",
+      "a": "Pay-as-you-go providers publish flat rates of around 1.69% to 1.75% for in-person UK cards (October 2026). Contract rates are quoted individually and can be lower for higher volumes, but usually come with a monthly terminal fee and sometimes authorisation fees."
+    },
+    {
+      "q": "What is interchange++ pricing?",
+      "a": "Interchange-plus-plus shows the three parts of the fee separately: the issuer’s interchange, the card scheme fee, and the acquirer’s margin. It’s more transparent, but statements are harder to read and your cost varies with the cards customers use."
+    },
+    {
+      "q": "Are card fees tax deductible?",
+      "a": "Card processing fees are generally an allowable business expense. Check with your accountant or HMRC guidance for your situation."
+    },
+    {
+      "q": "Can I pass card fees on to customers?",
+      "a": "Not for consumer debit and credit cards: surcharges have been banned since January 2018. Different rules apply to commercial cards. Read <a href=\"/blog/can-you-charge-for-card-payments/\">can you charge for card payments?</a>"
+    }
+  ],
+  "related": [
+    "card-machines",
+    "blog/pay-as-you-go-vs-subscription-card-fees",
+    "blog/card-machine-quote-summary-box",
+    "switch-card-machine-provider"
+  ]
+}

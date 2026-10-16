@@ -1,0 +1,294 @@
+{
+  "updated": "2026-10-16",
+  "slug": "epos-systems",
+  "nav": "EPOS & tills",
+  "navOrder": 2,
+  "title": "EPOS Till Systems UK: Compare POS for Retail & Hospitality",
+  "description": "Compare UK EPOS and POS till systems for shops, cafés, pubs and restaurants: Square, SumUp POS, Epos Now, Lightspeed, Toast, Clover and more, explained.",
+  "eyebrow": "EPOS & till systems",
+  "h1": "EPOS till systems compared",
+  "intro": "An EPOS (electronic point of sale) system is your till: it rings up sales, tracks stock, manages staff and reports your takings. Here’s how the main UK options differ, and how to pick one that fits your business and your card machine.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1647427017067-8f33ccbae493",
+    "alt": "A person using a POS till screen in a store",
+    "credit": "Simon Kadula",
+    "creditUrl": "https://unsplash.com/@simonkadula"
+  },
+  "keywords": [
+    "epos",
+    "epos system",
+    "epos till",
+    "pos system",
+    "pos systems uk",
+    "till system",
+    "cash register",
+    "retail pos",
+    "restaurant pos",
+    "hospitality epos",
+    "epos now",
+    "lightspeed",
+    "toast pos",
+    "clover",
+    "square pos"
+  ],
+  "cardText": "Square, Epos Now, Lightspeed, Toast, Clover and more.",
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "EPOS systems",
+      "intro": "Listed alphabetically within each group, not ranked. Pricing models change often: check each provider’s current plans.",
+      "tabs": [
+        {
+          "id": "allin",
+          "label": "All-in-one (payments built in)"
+        },
+        {
+          "id": "hosp",
+          "label": "Hospitality specialists"
+        },
+        {
+          "id": "retail",
+          "label": "Retail & multi-site"
+        }
+      ],
+      "items": [
+        {
+          "tag": "allin",
+          "mono": "PP",
+          "kind": "Free app + reader",
+          "title": "PayPal Point of Sale (Zettle)",
+          "text": "Free POS app with product library, stock and reports, paired with the PayPal/Zettle reader or terminal. Simple and contract-free.",
+          "url": "https://www.zettle.com/gb",
+          "specs": [
+            [
+              "Software",
+              "Free app"
+            ],
+            [
+              "Payments",
+              "1.75% in person"
+            ],
+            [
+              "Best for",
+              "Small shops, stalls, pop-ups"
+            ]
+          ]
+        },
+        {
+          "tag": "allin",
+          "mono": "Sq",
+          "kind": "Free + paid plans",
+          "title": "Square POS",
+          "text": "Free POS software with versions for retail, restaurants and appointments, and paid plans for advanced features. Payments are built in.",
+          "url": "https://squareup.com/gb/en/point-of-sale",
+          "specs": [
+            [
+              "Software",
+              "Free plan; Plus from £29/month"
+            ],
+            [
+              "Payments",
+              "1.75% in person (UK cards)"
+            ],
+            [
+              "Hardware",
+              "Terminal, Register, iPad stands"
+            ]
+          ]
+        },
+        {
+          "tag": "allin",
+          "mono": "SU",
+          "kind": "POS subscription",
+          "title": "SumUp POS",
+          "text": "SumUp’s till systems for retail and hospitality, including the hospitality EPOS formerly sold as Goodtill. Pairs with SumUp readers and terminals.",
+          "url": "https://www.sumup.com/en-gb/",
+          "specs": [
+            [
+              "Software",
+              "POS Plus £39/month ex VAT (per SumUp)"
+            ],
+            [
+              "Payments",
+              "SumUp rates"
+            ],
+            [
+              "Best for",
+              "Cafés, bars, small retail"
+            ]
+          ]
+        },
+        {
+          "tag": "hosp",
+          "mono": "Dj",
+          "kind": "Payments + tools",
+          "title": "Dojo",
+          "text": "Card machines with pay at table, bookings and integrations with many hospitality EPOS systems, rather than a full EPOS of its own for every venue.",
+          "url": "https://dojo.tech/",
+          "specs": [
+            [
+              "Pricing",
+              "Quoted"
+            ],
+            [
+              "Best for",
+              "Restaurants, pubs, cafés"
+            ],
+            [
+              "Works with",
+              "Many hospitality EPOS brands"
+            ]
+          ]
+        },
+        {
+          "tag": "hosp",
+          "mono": "EN",
+          "kind": "Quoted / plans",
+          "title": "Epos Now",
+          "text": "UK-founded EPOS provider for retail and hospitality, with hardware bundles, an app marketplace and its own integrated payments.",
+          "url": "https://www.eposnow.com/uk/",
+          "specs": [
+            [
+              "Pricing",
+              "Hardware bundles + software plans"
+            ],
+            [
+              "Payments",
+              "Own integrated payments or partners"
+            ],
+            [
+              "Best for",
+              "Independent shops and venues"
+            ]
+          ]
+        },
+        {
+          "tag": "hosp",
+          "mono": "To",
+          "kind": "Restaurant platform",
+          "title": "Toast",
+          "text": "US restaurant POS platform now selling in the UK and Ireland, with handheld ordering, kitchen display screens and online ordering.",
+          "url": "https://pos.toasttab.com/",
+          "specs": [
+            [
+              "Pricing",
+              "Quoted"
+            ],
+            [
+              "Best for",
+              "Busy and multi-site restaurants"
+            ],
+            [
+              "Hardware",
+              "Handhelds, KDS, terminals"
+            ]
+          ]
+        },
+        {
+          "tag": "retail",
+          "mono": "Cl",
+          "kind": "Fiserv platform",
+          "title": "Clover",
+          "text": "Fiserv’s POS and payments hardware, sold in the UK through partners and acquirers. Countertop, mobile and kiosk devices with an app market.",
+          "url": "https://www.clover.com/",
+          "specs": [
+            [
+              "Pricing",
+              "Through your acquirer/partner"
+            ],
+            [
+              "Hardware",
+              "Station, Mini, Flex"
+            ],
+            [
+              "Best for",
+              "Retail and quick service"
+            ]
+          ]
+        },
+        {
+          "tag": "retail",
+          "mono": "Ls",
+          "kind": "Subscription",
+          "title": "Lightspeed",
+          "text": "Cloud POS for retail and hospitality with strong inventory, multi-store and ecommerce features.",
+          "url": "https://www.lightspeedhq.co.uk/",
+          "specs": [
+            [
+              "Pricing",
+              "Monthly plans"
+            ],
+            [
+              "Best for",
+              "Multi-store retail, larger venues"
+            ],
+            [
+              "Extras",
+              "Ecommerce, loyalty, analytics"
+            ]
+          ]
+        },
+        {
+          "tag": "retail",
+          "mono": "Sh",
+          "kind": "Omnichannel",
+          "title": "Shopify POS",
+          "text": "Point of sale for Shopify online stores, keeping stock, customers and orders in one place across your shop and website.",
+          "url": "https://www.shopify.com/uk/pos",
+          "specs": [
+            [
+              "Needs",
+              "A Shopify plan"
+            ],
+            [
+              "Best for",
+              "Shops that also sell online"
+            ],
+            [
+              "Payments",
+              "Shopify Payments hardware"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Do you need an EPOS system or just a card machine?",
+      "html": "<p>If you sell a few items and mostly need to take card payments, a standalone card machine or a reader with a free POS app may be all you need. An EPOS system earns its keep when you need to:</p><ul><li>track stock across hundreds of products, with barcode scanning and low-stock alerts;</li><li>send orders from tables to the kitchen or bar, split bills and run tabs;</li><li>manage staff logins, shifts and permissions;</li><li>see sales reports by product, hour and site, and export to your accounting software;</li><li>connect online orders, deliveries and loyalty schemes.</li></ul>"
+    },
+    {
+      "h2": "Integrated vs standalone card terminals",
+      "html": "<p>An <strong>integrated</strong> terminal receives the amount directly from your till, so staff don’t key it in. That speeds up queues and avoids mistakes. A <strong>standalone</strong> terminal works on its own, and staff type the amount.</p><p>Some EPOS systems only work with their own payments (for example Square, SumUp and PayPal POS). Others let you choose from several payment providers, which means you can shop around for card rates without changing your till. Ask which acquirers and terminals an EPOS supports before you buy.</p>"
+    },
+    {
+      "h2": "How EPOS pricing works",
+      "html": "<ul><li><strong>Software:</strong> free plans, monthly subscriptions per site or per device, and add-ons (kitchen screens, loyalty, online ordering).</li><li><strong>Hardware:</strong> bought outright, bundled, or financed. Tablets, stands, cash drawers, receipt printers and barcode scanners add up.</li><li><strong>Payments:</strong> either built in at the provider’s rate or from a separate acquirer.</li><li><strong>Contracts:</strong> watch for minimum terms, hardware finance agreements and support plans that renew automatically.</li></ul><p>See <a href=\"/card-machine-fees/\">card machine fees</a> for the payments side.</p>"
+    },
+    {
+      "h2": "EPOS by business type",
+      "html": "<ul><li><a href=\"/card-machines-for-shops/\">Shops and retail</a>: barcode scanning, stock, variants and multi-buy offers.</li><li><a href=\"/card-machines-for-hospitality/\">Cafés, pubs and restaurants</a>: table plans, tabs, kitchen printing and pay at table.</li><li><a href=\"/petrol-station-pos/\">Petrol stations</a>: specialist forecourt EPOS linked to pumps and fuel cards.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between EPOS and POS?",
+      "a": "In the UK they mean the same thing in practice. EPOS (electronic point of sale) is the British term for a computerised till system; POS is the wider term used worldwide."
+    },
+    {
+      "q": "Can I use my own card machine with an EPOS system?",
+      "a": "Sometimes. Many EPOS systems integrate with several payment providers, but all-in-one systems such as Square, SumUp and PayPal POS use their own payments. Check before you buy."
+    },
+    {
+      "q": "Is there a free EPOS system?",
+      "a": "Square and PayPal Point of Sale offer free POS software; you pay card fees and buy hardware. Advanced features usually need a paid plan."
+    }
+  ],
+  "related": [
+    "card-machines-for-shops",
+    "card-machines-for-hospitality",
+    "petrol-station-pos",
+    "card-machines"
+  ]
+}

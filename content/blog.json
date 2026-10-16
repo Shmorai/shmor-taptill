@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 6,
+  "title": "Card Payments News & Guides for UK Businesses | TapTill",
+  "description": "UK card payment news for business owners: contactless limits, surcharge rules, provider takeovers, fees and contracts, checked against official sources.",
+  "eyebrow": "News · Rules · Money-saving guides",
+  "h1": "Card payments news and guides",
+  "intro": "Plain-English explainers on the changes that affect how UK businesses take payments, checked against the FCA, the Payment Systems Regulator, GOV.UK and providers’ own terms.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1786511031583-0b7540b4ab75",
+    "alt": "A person tapping a card on a payment terminal on a wooden counter",
+    "credit": "JASON WILL",
+    "creditUrl": "https://unsplash.com/@jasonwillseo"
+  },
+  "search": false,
+  "listTitle": "Latest news and guides",
+  "keywords": [
+    "card payments news",
+    "card machine news",
+    "merchant services news",
+    "uk payments blog"
+  ],
+  "cardText": "Contactless limits, surcharges, takeovers and fees explained."
+}

@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-16",
+  "slug": "tap-to-pay-on-phone",
+  "title": "Tap to Pay on iPhone and Android: Take Cards on Your Phone",
+  "description": "Take contactless card payments on your phone with no card machine: how Tap to Pay on iPhone and Android works in the UK, which providers offer it, and limits.",
+  "eyebrow": "No card machine needed",
+  "h1": "Tap to Pay: take card payments on your phone",
+  "intro": "Tap to Pay lets a compatible smartphone accept contactless cards and digital wallets directly, with no extra hardware. It’s ideal for occasional sales, back-up, queue-busting and getting started.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556742521-9713bf272865",
+    "alt": "A person holding a smartphone near a contactless payment terminal",
+    "credit": "Nathan Dumlao",
+    "creditUrl": "https://unsplash.com/@nate_dumlao"
+  },
+  "keywords": [
+    "tap to pay",
+    "tap to pay on iphone",
+    "tap to pay on android",
+    "take card payments on phone",
+    "softpos",
+    "phone card reader",
+    "accept contactless on phone"
+  ],
+  "cardText": "Accept contactless on an iPhone or Android, no hardware.",
+  "sections": [
+    {
+      "h2": "How Tap to Pay works",
+      "html": "<p>The customer taps their contactless card, phone or watch on the back of your phone. A payment app from your provider handles the payment, so you need an account with a provider that supports Tap to Pay. On iPhone it requires an iPhone XS or later; on Android it needs a phone with NFC that meets the provider’s requirements.</p><p>In the UK, Revolut Business and NatWest’s Tyl were launch partners for Tap to Pay on iPhone, and other providers including SumUp, Square and PayPal Point of Sale have added Tap to Pay to their apps. Check each provider’s app for current support on your device.</p>"
+    },
+    {
+      "h2": "Pros and cons",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Pros</th><th>Cons</th></tr></thead><tbody><tr><td>No hardware to buy or carry</td><td>Contactless only: no chip and PIN for cards that need it</td></tr><tr><td>Set up in minutes</td><td>No printed receipts (digital receipts instead)</td></tr><tr><td>Great back-up if a terminal fails</td><td>Uses your phone battery and data</td></tr><tr><td>Usually the same rate as the provider’s reader</td><td>Not ideal for busy counters</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Contactless limits on Tap to Pay",
+      "html": "<p>Card contactless limits apply in the same way as on a terminal. In March 2026 the FCA removed the fixed £100 limit, letting card issuers set their own, so limits now vary. Payments from phones and watches with Face ID, fingerprint or passcode checks weren’t subject to the £100 cap. Read <a href=\"/blog/contactless-limit-scrapped/\">the contactless limit explained</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Tap to Pay safe?",
+      "a": "Yes. Payments are encrypted and card numbers aren’t stored on your phone. The provider handles security, as with a card reader."
+    },
+    {
+      "q": "Does Tap to Pay cost more than a card reader?",
+      "a": "Usually not: most providers charge their normal in-person rate. Check your provider’s pricing page."
+    }
+  ],
+  "related": [
+    "mobile-card-readers",
+    "card-machines",
+    "blog/contactless-limit-scrapped"
+  ]
+}

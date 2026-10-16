@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog/contactless-limit-scrapped",
+  "type": "post",
+  "date": "2026-10-16",
+  "eyebrow": "Rules & regulation",
+  "title": "£100 Contactless Limit Scrapped: What It Means for Businesses",
+  "description": "The FCA removed the fixed £100 contactless limit in March 2026. What changed, why some cards still stop at £100 and what it means for your card machines.",
+  "h1": "The £100 contactless limit has gone: what it means for your business",
+  "intro": "Since 19 March 2026, UK card issuers have been allowed to set their own contactless limits. Here’s what actually changed at the till, and what to check with your card machine provider.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599050751795-6cdaafbc2319",
+    "alt": "A smartphone held over a card reader to make a contactless payment",
+    "credit": "CardMapr.nl",
+    "creditUrl": "https://unsplash.com/@cardmapr"
+  },
+  "keywords": [
+    "contactless limit",
+    "contactless limit 2026",
+    "contactless limit scrapped",
+    "fca contactless",
+    "£100 contactless limit",
+    "contactless payments business"
+  ],
+  "cardText": "Issuers now set their own limits. What changes at the till.",
+  "sources": [
+    {
+      "title": "Credit Strategy: new FCA rules let firms set contactless limits",
+      "url": "https://www.creditstrategy.co.uk/cs-regulation/regulation/new-fca-rules-allow-uk-banks-and-payment-providers-to-set-contactless-payment-limits"
+    },
+    {
+      "title": "MoneyWeek: £100 contactless card limit to be lifted",
+      "url": "https://www.moneyweek.com/personal-finance/financial-conduct-authority-contactless-limit-scrapped"
+    },
+    {
+      "title": "Forecourt Trader: £100 limit to be lifted in March",
+      "url": "https://forecourttrader.co.uk/news/100-limit-for-contactless-card-payments-to-be-lifted-in-march/713346.article"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>Until March 2026, FCA rules effectively capped single contactless card payments without a PIN at £100. From 19 March 2026, banks and payment firms with strong fraud controls can set their own limits instead of a single fixed figure. They may also let customers choose their own personal limit or turn contactless off.</p><p>It’s a permission, not a new limit: many issuers have kept £100 for now, and others may change over time. So two customers buying the same £120 item may get different results at your till.</p>"
+    },
+    {
+      "h2": "What it means at the counter",
+      "html": "<ul><li><strong>Expect variety:</strong> some cards will go through contactless above £100, others will ask for chip and PIN.</li><li><strong>Phones and watches are unchanged:</strong> mobile wallets like Apple Pay and Google Pay verify the customer with Face ID, fingerprint or a passcode, and were never capped at £100.</li><li><strong>Chip and PIN still matters:</strong> keep a terminal that takes chip and PIN for cards that decline contactless. <a href=\"/tap-to-pay-on-phone/\">Tap to Pay</a> on a phone is contactless only.</li><li><strong>Fraud protection for customers</strong> is unchanged: issuers generally refund cardholders for unauthorised payments.</li></ul>"
+    },
+    {
+      "h2": "What to check with your provider",
+      "html": "<p>Ask whether your terminals are up to date and support higher contactless amounts where the card allows it. Most modern terminals handle this automatically through software updates, but older hardware may need replacing. If you’re reviewing terminals anyway, compare options on our <a href=\"/card-machines/\">card machine comparison</a>.</p>"
+    },
+    {
+      "h2": "Businesses that benefit most",
+      "html": "<p>Higher-value everyday purchases see the biggest change: <a href=\"/petrol-station-pos/\">fuel</a>, larger grocery shops, <a href=\"/card-machines-for-hospitality/\">restaurant bills</a> and trade counters. Faster payments mean shorter queues, but it’s worth reminding staff that a card asking for PIN isn’t faulty.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there still a contactless limit in the UK?",
+      "a": "There’s no single fixed limit any more. Each card issuer sets its own, and many still use £100. Customers may also be able to set their own limit."
+    },
+    {
+      "q": "Do I need a new card machine?",
+      "a": "Usually not. Most modern terminals are updated remotely. Check with your provider if you use older hardware."
+    }
+  ],
+  "related": [
+    "tap-to-pay-on-phone",
+    "card-machines",
+    "petrol-station-pos"
+  ]
+}

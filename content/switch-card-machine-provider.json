@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-16",
+  "slug": "switch-card-machine-provider",
+  "nav": "Switching",
+  "navOrder": 5,
+  "title": "How to Switch Card Machine Provider (and Exit a Contract)",
+  "description": "Thinking of switching card machine provider? Check your minimum term, terminal lease and exit fees, compare quotes fairly and switch without losing sales.",
+  "eyebrow": "Switching provider",
+  "h1": "How to switch card machine provider",
+  "intro": "Card rates and terminal fees change, and your business changes too. Here’s how to check your current contract, compare fairly and move provider without a gap in taking payments.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628527304948-06157ee3c8a6",
+    "alt": "A person holding a payment card near a card terminal on an orange background",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "keywords": [
+    "switch card machine provider",
+    "card machine contract",
+    "cancel card machine contract",
+    "card machine lease",
+    "card machine rental",
+    "exit fees",
+    "card terminal lease"
+  ],
+  "cardText": "Minimum terms, leases, exit fees and a smooth switch.",
+  "sections": [
+    {
+      "h2": "Step 1: find your contract terms",
+      "html": "<ul><li><strong>Minimum term and end date</strong> of your payments (merchant) agreement.</li><li><strong>Terminal agreement:</strong> is the terminal rented from your payment provider, or leased from a separate finance company? A separate lease can carry on even if you leave the payments contract.</li><li><strong>Notice period</strong> and any automatic renewal.</li><li><strong>Exit or early termination fees.</strong></li></ul><p>Large UK card acquirers must send small businesses a reminder before the minimum term ends, and then once a year, under rules set by the Payment Systems Regulator. See <a href=\"https://www.psr.org.uk/publications/policy-statements/ps22-2-camr-final-decision/\" rel=\"nofollow noopener\" target=\"_blank\">the PSR’s card-acquiring remedies</a>.</p>"
+    },
+    {
+      "h2": "Step 2: get comparable quotes",
+      "html": "<p>Send each provider the same recent monthly statement so they can quote on your real card mix and volumes. Ask for the standard <strong>summary box</strong> of prices. Then compare the total monthly cost, not just the headline rate. Our <a href=\"/blog/card-machine-quote-summary-box/\">guide to reading a quote</a> and <a href=\"/card-machine-fees/\">fees guide</a> show how.</p>"
+    },
+    {
+      "h2": "Step 3: switch without a gap",
+      "html": "<ol><li>Apply to the new provider and wait for approval and the new terminal to arrive.</li><li>Test the new terminal and payouts while the old one still works.</li><li>Update your EPOS integration, online payments and recurring payments if they use the old provider.</li><li>Give notice to the old provider and return any rented terminals, getting proof of return.</li><li>Check final statements for unexpected charges.</li></ol>"
+    },
+    {
+      "h2": "Watch out for leases",
+      "html": "<p class=\"callout\">A terminal lease is a separate credit agreement, often with a long fixed term that can’t easily be cancelled. Before signing any lease, read the term, total cost and cancellation terms, and compare with renting or buying the terminal outright.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I leave my card machine contract early?",
+      "a": "Usually, but you may pay an early termination fee and remain liable for any separate terminal lease. Check your agreement and ask the provider for a written exit figure."
+    },
+    {
+      "q": "How long does it take to switch?",
+      "a": "Approval and delivery commonly take a few days to a couple of weeks, depending on the provider and checks needed. Keep your old terminal working until the new one is live."
+    }
+  ],
+  "related": [
+    "card-machine-fees",
+    "card-machines",
+    "blog/card-machine-quote-summary-box",
+    "blog/global-payments-worldpay-what-it-means"
+  ]
+}

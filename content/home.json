@@ -1,15 +1,306 @@
 {
+  "updated": "2026-10-16",
   "slug": "",
-  "title": "TapTill: UK card machines, payment terminals and EPOS till s",
-  "description": "UK card machines, payment terminals and EPOS till systems compared for shops, cafés, salons, petrol stations and every business that takes payments. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "TapTill",
-  "intro": "UK card machines, payment terminals and EPOS till systems compared for shops, cafés, salons, petrol stations and every business that takes payments.",
-  "related": [],
+  "title": "TapTill: Compare UK Card Machines & EPOS Till Systems",
+  "description": "Compare UK card machines, payment terminals and EPOS tills from SumUp, Square, Dojo, Teya, Barclaycard and more. Fees explained for shops, cafés and forecourts.",
+  "eyebrow": "Card machines · EPOS · Fees · UK",
+  "h1": "Compare UK card machines and EPOS tills. Keep more of every sale.",
+  "h1Html": "Compare UK card machines and EPOS tills.<br><span class=\"hl\">Keep more of every sale.</span>",
+  "intro": "Plain-English comparisons of the payment terminals, card readers and till systems used by UK shops, cafés, pubs, salons, market traders and petrol stations. We explain the fees, contracts and catches, so you can pick the right setup and pay less to take payments. Free to use.",
+  "searchPlaceholder": "Try “card machine for a café” or “card fees”",
+  "chips": [
+    {
+      "label": "Compare card machines",
+      "slug": "card-machines"
+    },
+    {
+      "label": "Card machine fees",
+      "slug": "card-machine-fees"
+    },
+    {
+      "label": "EPOS till systems",
+      "slug": "epos-systems"
+    },
+    {
+      "label": "Petrol stations",
+      "slug": "petrol-station-pos"
+    },
+    {
+      "label": "Tap to Pay on phone",
+      "slug": "tap-to-pay-on-phone"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556742031-c6961e8560b0",
+    "alt": "A customer inserting a card into a handheld payment terminal",
+    "credit": "Clay Banks",
+    "creditUrl": "https://unsplash.com/@claybanks"
+  },
+  "highlightsTitle": "Why compare card machines with TapTill?",
+  "highlights": [
+    {
+      "title": "Real, sourced fees",
+      "text": "Where providers publish their rates, we show them with the date we checked and a link to the source. No made-up “from” prices or star ratings."
+    },
+    {
+      "title": "Every kind of business",
+      "text": "From a market stall taking a few payments a week to a busy forecourt or a multi-till restaurant, each guide starts from how you trade."
+    },
+    {
+      "title": "Contracts decoded",
+      "text": "Monthly fees, minimum terms, terminal rental, authorisation fees, PCI charges: we explain the small print before you sign."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use TapTill?",
-      "html": "<p>UK card machines, payment terminals and EPOS till systems compared for shops, cafés, salons, petrol stations and every business that takes payments.</p>"
+      "h2": "Card machine, card reader, terminal or EPOS: what’s the difference?",
+      "html": "<p>In the UK the words get mixed up, so here is how we use them:</p><ul><li><strong>Card reader:</strong> a small device that pairs with your phone or tablet by Bluetooth. Cheap to buy, usually pay as you go. Good for low volumes and mobile trading. See <a href=\"/mobile-card-readers/\">mobile card readers</a>.</li><li><strong>Card machine or payment terminal</strong> (also called a PDQ machine or chip and PIN machine): a standalone device with its own screen, printer or SIM. Countertop, portable (Wi-Fi/Bluetooth) or mobile (4G) models.</li><li><strong>EPOS or POS system:</strong> the till itself, the software and hardware that rings up sales, tracks stock, prints receipts and reports takings. Most EPOS systems connect to a card terminal. See <a href=\"/epos-systems/\">EPOS till systems</a>.</li><li><strong>Merchant account / acquirer:</strong> the regulated firm that actually processes card payments and pays the money into your bank account.</li></ul><p>Some providers (for example SumUp, Square and PayPal Point of Sale, formerly Zettle) bundle all of these into one sign-up. Others, such as Worldpay, Barclaycard or Lloyds Cardnet, are acquirers that work with many terminal and EPOS brands.</p>"
+    },
+    {
+      "h2": "How to choose a card machine for your business",
+      "html": "<ol><li><strong>Estimate your monthly card takings and average sale.</strong> This decides whether a <a href=\"/card-machine-fees/\">pay-as-you-go flat rate</a> or a quoted contract rate is cheaper.</li><li><strong>Decide how you take payments:</strong> at a counter, at the table, on the doorstep, at a market or at the pump. That decides countertop, portable or 4G mobile.</li><li><strong>Check your till:</strong> if you already use an EPOS system, pick a terminal that integrates with it so amounts aren’t keyed in twice.</li><li><strong>Read the whole price:</strong> transaction rate, monthly terminal fee, authorisation fees, PCI compliance fees, minimum monthly charges, refund and chargeback fees, and the contract term.</li><li><strong>Check how fast you get paid</strong> and whether you must open the provider’s own business account.</li></ol><p>Our <a href=\"/card-machines/\">card machine comparison</a> lays out the UK’s main providers side by side, and the <a href=\"/business-types/\">guides by business type</a> cover what matters for your sector.</p>"
+    },
+    {
+      "h2": "Card payment rules every UK business should know",
+      "html": "<ul><li><strong>No surcharges on consumer cards:</strong> since January 2018 you can’t charge consumers extra for paying by debit or credit card. Read <a href=\"/blog/can-you-charge-for-card-payments/\">can you charge for card payments?</a></li><li><strong>Contactless limits are changing:</strong> the FCA removed the fixed £100 limit in March 2026, so card issuers can now set their own. See <a href=\"/blog/contactless-limit-scrapped/\">the contactless limit explained</a>.</li><li><strong>PCI DSS:</strong> every business that takes cards must protect card data under the Payment Card Industry Data Security Standard. Most providers include a yearly questionnaire, and some charge a fee if you don’t complete it.</li><li><strong>Price transparency:</strong> large card acquirers must give small businesses a summary box of their prices and send reminders when a contract’s minimum term is ending. See <a href=\"/blog/card-machine-quote-summary-box/\">how to read a card machine quote</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the cheapest card machine in the UK?",
+      "a": "It depends on your takings. For low or irregular volumes, pay-as-you-go readers with no monthly fee are usually cheapest: SumUp publishes 1.69% and Square, PayPal Point of Sale and Lloyds Cardnet’s mobile reader publish 1.75% for in-person UK cards (as checked in October 2026). Busier businesses can often get lower quoted rates on a contract. Our <a href=\"/card-machine-fees/\">fees guide</a> shows how to compare."
+    },
+    {
+      "q": "Is TapTill a payment provider?",
+      "a": "No. TapTill is a free guide and comparison site. When you choose a card machine or EPOS system, you sign up directly with the provider, under their terms."
+    },
+    {
+      "q": "Do I need a business bank account to take card payments?",
+      "a": "Most providers pay out to a business bank account, and some offer their own. Sole traders can often use a personal account with pay-as-you-go providers, but check each provider’s terms."
+    },
+    {
+      "q": "How does TapTill make money?",
+      "a": "Some links are affiliate links, so a provider may pay us a commission if you sign up. It doesn’t change your price and we don’t sell rankings. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>."
+    }
+  ],
+  "related": [],
+  "ctaTitle": "What kind of business are you taking payments for?",
+  "latestPosts": 3,
+  "latestTitle": "Latest card payment news",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Sourced fees",
+          "text": "dated & linked"
+        },
+        {
+          "icon": "store",
+          "title": "Every sector",
+          "text": "shops to forecourts"
+        },
+        {
+          "icon": "file",
+          "title": "Contracts decoded",
+          "text": "no small-print surprises"
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use",
+          "text": "you sign up direct"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "Card machines for…",
+      "intro": "Start from how you trade. Each guide explains which machine type, features and pricing model usually fit best.",
+      "more": {
+        "title": "All business types",
+        "slug": "business-types"
+      },
+      "items": [
+        {
+          "slug": "card-machines-for-shops",
+          "title": "Shops & retail",
+          "badge": "Counter + EPOS",
+          "text": "Corner shops, boutiques and convenience stores."
+        },
+        {
+          "slug": "card-machines-for-hospitality",
+          "title": "Cafés, pubs & restaurants",
+          "badge": "Pay at table"
+        },
+        {
+          "slug": "petrol-station-pos",
+          "title": "Petrol stations",
+          "badge": "Forecourt"
+        },
+        {
+          "slug": "mobile-card-readers",
+          "title": "Market stalls & mobile",
+          "badge": "4G"
+        },
+        {
+          "slug": "tap-to-pay-on-phone",
+          "title": "No machine at all",
+          "badge": "Phone"
+        },
+        {
+          "slug": "epos-systems",
+          "title": "Full EPOS tills",
+          "badge": "Stock & reports"
+        },
+        {
+          "slug": "switch-card-machine-provider",
+          "title": "Switching provider",
+          "badge": "Contracts"
+        },
+        {
+          "slug": "card-machine-fees",
+          "title": "Cutting fees",
+          "badge": "Rates"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "What to compare on any card machine",
+      "intro": "No invented prices: these are the costs and terms that decide what you really pay.",
+      "more": {
+        "title": "Card machine fees explained",
+        "slug": "card-machine-fees"
+      },
+      "items": [
+        {
+          "icon": "percent",
+          "badge": "Biggest cost",
+          "title": "Transaction rate",
+          "text": "A flat percentage, or a rate that varies by card type (debit, credit, business, international). Ask for both.",
+          "slug": "card-machine-fees",
+          "cta": "How rates work"
+        },
+        {
+          "icon": "calendar",
+          "title": "Monthly terminal fee",
+          "text": "Rental or subscription for the machine. Pay-as-you-go readers have none; contracts usually do.",
+          "slug": "card-machine-fees",
+          "cta": "Rent or buy"
+        },
+        {
+          "icon": "receipt",
+          "title": "Authorisation fees",
+          "text": "A few pence per transaction on some contracts. They add up fast on small sales like coffees.",
+          "slug": "card-machine-fees",
+          "cta": "Hidden extras"
+        },
+        {
+          "icon": "clock",
+          "badge": "Lock-in",
+          "title": "Contract length",
+          "text": "From no contract at all to 12–18 month terms, with exit fees. Check what happens at renewal.",
+          "slug": "switch-card-machine-provider",
+          "cta": "Switching guide"
+        },
+        {
+          "icon": "wallet",
+          "title": "Payout speed",
+          "text": "Next working day is common; some offer same-day or instant payouts, sometimes only into their own account.",
+          "slug": "card-machines",
+          "cta": "Compare providers"
+        },
+        {
+          "icon": "shield",
+          "title": "PCI & minimums",
+          "text": "Watch for PCI non-compliance fees and minimum monthly service charges if takings are low.",
+          "slug": "blog/card-machine-quote-summary-box",
+          "cta": "Read a quote"
+        },
+        {
+          "icon": "link",
+          "title": "EPOS integration",
+          "text": "A terminal that talks to your till avoids keying errors and speeds up queues.",
+          "slug": "epos-systems",
+          "cta": "EPOS systems"
+        },
+        {
+          "icon": "signal",
+          "title": "Connectivity",
+          "text": "Countertop (wired), portable (Wi-Fi/Bluetooth) or mobile (4G SIM). Match it to where you take payments.",
+          "slug": "mobile-card-readers",
+          "cta": "Mobile options"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How TapTill works",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Tell us how you trade",
+          "text": "Pick your business type or search for what you need."
+        },
+        {
+          "icon": "scale",
+          "title": "Compare the real costs",
+          "text": "See published fees, contract terms and features side by side, with sources."
+        },
+        {
+          "icon": "check",
+          "title": "Sign up direct",
+          "text": "Apply with the provider under their terms. Get a written quote before you commit."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Popular card payment questions",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Cheapest card machine",
+          "slug": "card-machine-fees"
+        },
+        {
+          "icon": "search",
+          "title": "SumUp vs Square vs Zettle",
+          "slug": "card-machines"
+        },
+        {
+          "icon": "search",
+          "title": "Can I charge for card payments?",
+          "slug": "blog/can-you-charge-for-card-payments"
+        },
+        {
+          "icon": "search",
+          "title": "Contactless limit 2026",
+          "slug": "blog/contactless-limit-scrapped"
+        },
+        {
+          "icon": "search",
+          "title": "Is a subscription plan worth it?",
+          "slug": "blog/pay-as-you-go-vs-subscription-card-fees"
+        },
+        {
+          "icon": "search",
+          "title": "Worldpay & Global Payments",
+          "slug": "blog/global-payments-worldpay-what-it-means"
+        },
+        {
+          "icon": "search",
+          "title": "Tap to Pay on iPhone",
+          "slug": "tap-to-pay-on-phone"
+        },
+        {
+          "icon": "search",
+          "title": "Leave a card machine contract",
+          "slug": "switch-card-machine-provider"
+        }
+      ]
     }
   ]
 }

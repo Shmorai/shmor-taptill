@@ -1,0 +1,376 @@
+{
+  "updated": "2026-10-16",
+  "slug": "card-machines",
+  "nav": "Card machines",
+  "navOrder": 1,
+  "title": "Compare UK Card Machine Providers Side by Side",
+  "description": "SumUp, Square, PayPal POS (Zettle), Dojo, Teya, takepayments, Worldpay, Barclaycard, Lloyds Cardnet and more compared: fees, contracts and hardware.",
+  "eyebrow": "Provider comparison",
+  "h1": "UK card machine providers compared",
+  "intro": "The main card machine and payment terminal providers in the UK, grouped by how they charge. Published rates are shown with the date we checked them. Everything else is quoted, so get a written quote and summary box before you sign.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1",
+    "alt": "A person holding a payment card next to a white card machine",
+    "credit": "Nathan Dumlao",
+    "creditUrl": "https://unsplash.com/@nate_dumlao"
+  },
+  "keywords": [
+    "compare card machines",
+    "card machine providers uk",
+    "sumup vs square",
+    "sumup vs zettle",
+    "dojo vs teya",
+    "best card machine uk",
+    "payment terminal providers"
+  ],
+  "cardText": "SumUp, Square, Dojo, Teya, Worldpay and more, side by side.",
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Card machine providers",
+      "intro": "Filter by pricing model. Cards are listed alphabetically within each group, not ranked. Links go to each provider’s own website. Rates are for in-person UK card payments as published in October 2026: always check the current fee schedule.",
+      "tabs": [
+        {
+          "id": "payg",
+          "label": "Pay as you go"
+        },
+        {
+          "id": "quoted",
+          "label": "Quoted / contract"
+        },
+        {
+          "id": "bank",
+          "label": "Bank-backed"
+        }
+      ],
+      "items": [
+        {
+          "tag": "payg",
+          "mono": "PP",
+          "kind": "Pay as you go",
+          "title": "PayPal Point of Sale (Zettle)",
+          "text": "Zettle by PayPal is being renamed PayPal Point of Sale. Flat-rate card reader and POS app with no contract or recurring fees, popular with small shops and market traders.",
+          "url": "https://www.zettle.com/gb",
+          "specs": [
+            [
+              "In-person rate",
+              "1.75%"
+            ],
+            [
+              "Monthly fee",
+              "None, no contract"
+            ],
+            [
+              "Hardware",
+              "Reader from £29 (new users), Terminal from £149, ex VAT"
+            ],
+            [
+              "Also",
+              "Free POS app, invoices"
+            ]
+          ]
+        },
+        {
+          "tag": "payg",
+          "mono": "Rv",
+          "kind": "App-based",
+          "title": "Revolut Business",
+          "text": "Revolut Business customers can take in-person payments with Tap to Pay on iPhone in the Revolut Business app or with Revolut’s own card reader. Fees depend on your Revolut plan.",
+          "url": "https://www.revolut.com/business/",
+          "specs": [
+            [
+              "Pricing",
+              "Set by your Revolut Business plan"
+            ],
+            [
+              "Needs",
+              "A Revolut Business account"
+            ],
+            [
+              "Hardware",
+              "iPhone (Tap to Pay) or Revolut Reader"
+            ]
+          ]
+        },
+        {
+          "tag": "payg",
+          "mono": "Sq",
+          "kind": "Pay as you go",
+          "title": "Square",
+          "text": "All-in-one payments and free POS software, with paid plans for restaurants, retail and appointments. No setup or monthly fee on the Free plan.",
+          "url": "https://squareup.com/gb/en",
+          "specs": [
+            [
+              "In-person rate",
+              "1.75% UK cards (non-UK cards +1.95%)"
+            ],
+            [
+              "Monthly fee",
+              "Free plan £0; Plus from £29/month"
+            ],
+            [
+              "Hardware",
+              "Reader £19, Terminal £149, Register £699, ex VAT"
+            ],
+            [
+              "Online",
+              "1.4% + 25p UK cards"
+            ]
+          ]
+        },
+        {
+          "tag": "payg",
+          "mono": "SU",
+          "kind": "Pay as you go",
+          "title": "SumUp",
+          "text": "Low-cost readers and terminals with no monthly fee on pay as you go, plus an optional Payments Plus subscription with a lower headline rate. Also sells POS systems (including the former Goodtill).",
+          "url": "https://www.sumup.com/en-gb/",
+          "specs": [
+            [
+              "In-person rate",
+              "1.69% pay as you go"
+            ],
+            [
+              "Subscription",
+              "Payments Plus £19/month, headline 0.99%"
+            ],
+            [
+              "Hardware",
+              "Solo Lite, Solo (4G), Terminal"
+            ],
+            [
+              "Volume",
+              "Custom pricing from £10,000/month"
+            ]
+          ]
+        },
+        {
+          "tag": "quoted",
+          "mono": "Dj",
+          "kind": "Quoted rates",
+          "title": "Dojo",
+          "text": "Card machines, pay-at-table and booking tools aimed at hospitality and retail, from the company formerly known for the Paymentsense brand. Rates vary by card type and are quoted per business.",
+          "url": "https://dojo.tech/",
+          "specs": [
+            [
+              "Pricing",
+              "Personal quote; rates by card type"
+            ],
+            [
+              "Fees",
+              "Monthly terminal fee; see Dojo’s fee schedule"
+            ],
+            [
+              "Strengths",
+              "Fast payouts, pay at table, EPOS integrations"
+            ]
+          ]
+        },
+        {
+          "tag": "quoted",
+          "mono": "El",
+          "kind": "Acquirer",
+          "title": "Elavon",
+          "text": "One of the UK’s largest card acquirers, owned by U.S. Bancorp. Works with many EPOS and terminal partners, typically for established and multi-site businesses.",
+          "url": "https://www.elavon.co.uk/",
+          "specs": [
+            [
+              "Pricing",
+              "Quoted"
+            ],
+            [
+              "Best for",
+              "Established, higher-volume merchants"
+            ],
+            [
+              "Hardware",
+              "Countertop, portable and integrated"
+            ]
+          ]
+        },
+        {
+          "tag": "quoted",
+          "mono": "tp",
+          "kind": "Quoted / 12 months",
+          "title": "takepayments",
+          "text": "Stockport-based card machine provider and part of Global Payments. Packages are built per business; you also hold an agreement with a nominated acquiring bank.",
+          "url": "https://www.takepayments.com/",
+          "specs": [
+            [
+              "Pricing",
+              "Free quote, bespoke package"
+            ],
+            [
+              "Contract",
+              "12-month contract"
+            ],
+            [
+              "Hardware",
+              "takepaymentsplus, A920 Pro"
+            ],
+            [
+              "Owner",
+              "Global Payments"
+            ]
+          ]
+        },
+        {
+          "tag": "quoted",
+          "mono": "Ty",
+          "kind": "Quoted rates",
+          "title": "Teya",
+          "text": "Card machines with built-in 4G and Wi-Fi, a business account with cashback and cash advances. Teya says it has no standard price list and tailors rates to each business.",
+          "url": "https://www.teya.com/en-gb",
+          "specs": [
+            [
+              "Pricing",
+              "Tailored quote"
+            ],
+            [
+              "Contract",
+              "“No lock-ins” (per Teya)"
+            ],
+            [
+              "Note",
+              "+0.10% if paid out to an external bank"
+            ],
+            [
+              "Works with",
+              "200+ EPOS systems"
+            ]
+          ]
+        },
+        {
+          "tag": "quoted",
+          "mono": "Wp",
+          "kind": "Acquirer",
+          "title": "Worldpay",
+          "text": "One of the UK’s biggest card acquirers, now owned by Global Payments (deal completed 12 January 2026). Offers card machines for small businesses and enterprise payment processing.",
+          "url": "https://www.worldpay.com/en-gb",
+          "specs": [
+            [
+              "Pricing",
+              "Quoted; small-business packages"
+            ],
+            [
+              "Owner",
+              "Global Payments since Jan 2026"
+            ],
+            [
+              "Best for",
+              "Growing and multi-site businesses"
+            ]
+          ]
+        },
+        {
+          "tag": "bank",
+          "mono": "Bc",
+          "kind": "Bank-backed",
+          "title": "Barclaycard Payments",
+          "text": "Barclays’ card acceptance business. Its range includes Smartpay Anywhere (a mobile reader with no contract) and contract terminals such as Smartpay Touch and Flex.",
+          "url": "https://www.barclaycard.co.uk/business",
+          "specs": [
+            [
+              "Pricing",
+              "Published plans and quotes"
+            ],
+            [
+              "Contracts",
+              "From none (Anywhere) to 12–18 months"
+            ],
+            [
+              "Note",
+              "Approval depends on your business’s finances"
+            ]
+          ]
+        },
+        {
+          "tag": "bank",
+          "mono": "LC",
+          "kind": "Bank-backed",
+          "title": "Lloyds Cardnet",
+          "text": "Lloyds Banking Group’s card acquirer. Offers a pay-as-you-go mobile reader (mPOS) as well as countertop and portable terminals on bespoke pricing.",
+          "url": "https://www.lloydsbank.com/business/take-payments-with-cardnet/card-readers/mpos.html",
+          "specs": [
+            [
+              "mPOS rate",
+              "1.75%, no monthly fee"
+            ],
+            [
+              "mPOS reader",
+              "£49 one-off (first reader)"
+            ],
+            [
+              "Refund / chargeback",
+              "50p / £15 (mPOS)"
+            ],
+            [
+              "Terminals",
+              "Bespoke pricing"
+            ]
+          ]
+        },
+        {
+          "tag": "bank",
+          "mono": "Tl",
+          "kind": "Bank-backed",
+          "title": "Tyl by NatWest",
+          "text": "NatWest Group’s card payments service for UK businesses, with card machines, online payments and Tap to Pay on iPhone. Also offered through Royal Bank of Scotland and Ulster Bank.",
+          "url": "https://www.tylbynatwest.com/",
+          "specs": [
+            [
+              "Pricing",
+              "Published rates by card type"
+            ],
+            [
+              "Payouts",
+              "Next business day (per Tyl)"
+            ],
+            [
+              "Eligibility",
+              "UK-based and trading businesses"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Pay as you go or contract?",
+      "html": "<p>UK card machine providers fall into two camps:</p><ul><li><strong>Pay as you go (flat rate):</strong> you buy a reader once and pay a fixed percentage per sale, with no monthly fee and no contract. SumUp, Square, PayPal Point of Sale and Lloyds Cardnet’s mPOS reader work this way. Simple and predictable, and usually cheapest for lower volumes.</li><li><strong>Quoted / contract:</strong> you rent a terminal for a monthly fee and get rates set for your business, often varying by card type, sometimes with authorisation fees. Dojo, Teya, takepayments, Worldpay, Elavon and the banks’ terminal plans work this way. Busier businesses with larger average sales can often pay less overall, but you must read the whole price.</li></ul><p>As a rough guide, once your monthly card takings reach a few thousand pounds, it’s worth getting quotes. Our <a href=\"/card-machine-fees/\">fees guide</a> shows how to compare a flat rate with a quote, and <a href=\"/blog/pay-as-you-go-vs-subscription-card-fees/\">this worked example</a> shows when a subscription plan pays off.</p>"
+    },
+    {
+      "h2": "Published pay-as-you-go rates at a glance",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Provider</th><th>In-person UK cards</th><th>Monthly fee</th><th>Source</th></tr></thead><tbody><tr><td>SumUp</td><td>1.69%</td><td>None (Payments Plus £19/month optional)</td><td><a href=\"https://www.sumup.com/en-gb/pricing/\" rel=\"nofollow noopener\" target=\"_blank\">sumup.com pricing</a></td></tr><tr><td>Square</td><td>1.75%</td><td>None on the Free plan</td><td><a href=\"https://squareup.com/gb/en/pricing\" rel=\"nofollow noopener\" target=\"_blank\">squareup.com pricing</a></td></tr><tr><td>PayPal Point of Sale (Zettle)</td><td>1.75%</td><td>None</td><td><a href=\"https://www.zettle.com/gb/pricing\" rel=\"nofollow noopener\" target=\"_blank\">zettle.com pricing</a></td></tr><tr><td>Lloyds Cardnet mPOS</td><td>1.75%</td><td>None</td><td><a href=\"https://www.lloydsbank.com/business/take-payments-with-cardnet/card-readers/mpos.html\" rel=\"nofollow noopener\" target=\"_blank\">lloydsbank.com</a></td></tr></tbody></table></div><p class=\"source-note\">Checked 16 October 2026. Rates can change and may differ for international, business or American Express cards, keyed or online payments.</p>"
+    },
+    {
+      "h2": "Questions to ask before you sign",
+      "html": "<ol><li>What is my rate for each card type, and is there an authorisation fee per transaction?</li><li>What is the monthly terminal fee, and is the terminal rented, leased or bought?</li><li>How long is the minimum term, and what does it cost to leave early?</li><li>Are there PCI compliance fees, minimum monthly service charges or account fees?</li><li>When do payouts arrive, and do I need to use your business account?</li><li>Does the terminal integrate with my <a href=\"/epos-systems/\">EPOS system</a>?</li></ol><p>Large acquirers must give small businesses a standard summary box of prices. Ask for it, and compare like with like: see <a href=\"/blog/card-machine-quote-summary-box/\">how to read a card machine quote</a>.</p>"
+    },
+    {
+      "h2": "Who owns whom",
+      "html": "<p>Several well-known brands share an owner, which can matter when you switch:</p><ul><li><strong>Global Payments</strong> owns Worldpay (since January 2026) and takepayments.</li><li><strong>PayPal</strong> owns Zettle, now being renamed PayPal Point of Sale.</li><li><strong>Block</strong> owns Square.</li><li><strong>Fiserv</strong> owns Clover, an EPOS and payments platform sold through partners.</li><li><strong>Dojo</strong> is the trading brand of the company previously known as Paymentsense.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which card machine is best for a small business?",
+      "a": "For low or variable takings, a pay-as-you-go reader with no monthly fee is usually the simplest and cheapest place to start. As takings grow, compare quotes from contract providers and look at subscription plans like SumUp Payments Plus. See <a href=\"/card-machine-fees/\">card machine fees</a>."
+    },
+    {
+      "q": "Is SumUp cheaper than Square or Zettle?",
+      "a": "On published pay-as-you-go rates for in-person UK cards, SumUp’s 1.69% is slightly lower than the 1.75% charged by Square and PayPal Point of Sale (October 2026). Hardware prices, software, payout speed and extra fees also matter, so compare the whole package."
+    },
+    {
+      "q": "Why don’t some providers publish their prices?",
+      "a": "Contract providers such as Dojo, Teya and the big acquirers usually price each business individually, based on turnover, sector, average sale and card mix. Ask for a written quote and the standard summary box."
+    }
+  ],
+  "related": [
+    "card-machine-fees",
+    "epos-systems",
+    "switch-card-machine-provider",
+    "blog/pay-as-you-go-vs-subscription-card-fees"
+  ]
+}

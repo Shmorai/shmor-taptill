@@ -7,6 +7,21 @@
     btn.setAttribute('aria-expanded', open);
   });
 
+  // TapTill: add a 'Business' field to every search box; its value is folded into ?q=
+  var TYPES = [['', 'Any business'], ['shop', 'Shop / retail'], ['hospitality', 'Café, pub, restaurant'], ['mobile', 'Mobile / market stall'], ['salon', 'Salon / appointments'], ['forecourt', 'Petrol station'], ['small business', 'Sole trader']];
+  Array.prototype.forEach.call(document.querySelectorAll('form.search'), function (form) {
+    var q = form.querySelector('input[name=q]'), btn = form.querySelector('button');
+    if (!q || !btn) return;
+    var seg = document.createElement('label');
+    seg.className = 'seg';
+    seg.innerHTML = '<span>Business</span><select>' + TYPES.map(function (t) { return '<option value="' + t[0] + '">' + t[1].replace('&', '&amp;') + '</option>'; }).join('') + '</select>';
+    form.insertBefore(seg, btn);
+    form.addEventListener('submit', function () {
+      var t = seg.querySelector('select').value;
+      if (t && q.value.toLowerCase().indexOf(t) < 0) q.value = (q.value + ' ' + t).trim();
+    });
+  });
+
   var out = document.getElementById('search-results');
   if (!out) return;
   var q = (new URLSearchParams(location.search).get('q') || '').trim();

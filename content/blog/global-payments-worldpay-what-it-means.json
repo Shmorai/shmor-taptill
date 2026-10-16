@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog/global-payments-worldpay-what-it-means",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Provider news",
+  "title": "Global Payments Now Owns Worldpay: What Merchants Should Know",
+  "description": "Global Payments completed its Worldpay takeover in January 2026, adding it to takepayments. What it means for UK merchants’ contracts, terminals and switching.",
+  "h1": "Global Payments now owns Worldpay: what it means for UK merchants",
+  "intro": "One of the biggest payment deals in years completed in January 2026, putting Worldpay under the same owner as takepayments. If you use either, here’s what to know.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3",
+    "alt": "A person holding a payment card while using a laptop",
+    "credit": "rupixen",
+    "creditUrl": "https://unsplash.com/@rupixen"
+  },
+  "keywords": [
+    "worldpay",
+    "global payments",
+    "worldpay takeover",
+    "global payments worldpay",
+    "takepayments",
+    "worldpay merchants"
+  ],
+  "cardText": "The Worldpay deal, takepayments, and what changes for you.",
+  "sources": [
+    {
+      "title": "Business Wire: Global Payments completes acquisition of Worldpay",
+      "url": "https://www.businesswire.com/news/home/20260112224066/en"
+    },
+    {
+      "title": "Payment Expert: Global Payments–Worldpay deal",
+      "url": "https://paymentexpert.com/2026/01/12/global-payments-worldpay-deal/"
+    },
+    {
+      "title": "takepayments: about us (a Global Payments company)",
+      "url": "https://www.takepayments.com/"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What happened",
+      "html": "<p>On 12 January 2026, US payments firm Global Payments completed its purchase of Worldpay from FIS and private equity firm GTCR, and at the same time sold its card-issuing business to FIS. The deal was first announced in April 2025. Global Payments says the combined business serves more than six million merchant locations worldwide.</p><p>In the UK, Global Payments already owned card machine provider <strong>takepayments</strong>, so two well-known small-business brands now sit in the same group.</p>"
+    },
+    {
+      "h2": "What it means if you’re a Worldpay or takepayments customer",
+      "html": "<ul><li><strong>Your contract stays in force.</strong> A change of owner doesn’t change the terms you signed. Prices and terms can only change in line with your agreement, usually with notice.</li><li><strong>Watch your inbox:</strong> integrations of this size can bring new statements, portals, terminals or terms over time. Read any change notices carefully, as they may give you a right to end your contract without a fee.</li><li><strong>Check your renewal date:</strong> large acquirers must remind small businesses before their minimum term ends. That’s your moment to compare quotes.</li></ul>"
+    },
+    {
+      "h2": "Does it affect switching?",
+      "html": "<p>If you get quotes from Worldpay and takepayments, remember they now have the same parent company. For a truly independent comparison, include providers from other groups as well, such as Dojo, Teya, Barclaycard, Lloyds Cardnet, Elavon, SumUp, Square or PayPal Point of Sale. See <a href=\"/card-machines/\">all providers</a> and <a href=\"/switch-card-machine-provider/\">how to switch</a>.</p>"
+    }
+  ],
+  "related": [
+    "card-machines",
+    "switch-card-machine-provider",
+    "blog/card-machine-quote-summary-box"
+  ]
+}

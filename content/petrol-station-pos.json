@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-16",
+  "slug": "petrol-station-pos",
+  "title": "Petrol Station POS & Forecourt Card Payments in the UK",
+  "description": "Forecourt EPOS, pay-at-pump terminals, fuel card acceptance and Fuel Finder price reporting: what UK petrol station owners need from a POS system.",
+  "eyebrow": "Petrol stations & forecourts",
+  "h1": "Petrol station POS and forecourt payments",
+  "intro": "Forecourts need more than a card machine: the till has to control pumps, accept fuel cards, run the shop and, since February 2026, help report price changes to the government’s Fuel Finder scheme. Here’s what to look for.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1632224120632-895c7132d2b1",
+    "alt": "A petrol station forecourt lit up at night",
+    "credit": "adrian susec",
+    "creditUrl": "https://unsplash.com/@adrianxsusec"
+  },
+  "keywords": [
+    "petrol station pos",
+    "forecourt pos",
+    "forecourt epos",
+    "pay at pump",
+    "fuel card acceptance",
+    "petrol station card machine",
+    "fuel finder",
+    "forecourt payment terminal",
+    "outdoor payment terminal"
+  ],
+  "cardText": "Forecourt EPOS, pay at pump, fuel cards and Fuel Finder.",
+  "sections": [
+    {
+      "h2": "What a forecourt POS has to do",
+      "html": "<ul><li><strong>Pump control:</strong> authorise pumps, show live deliveries and settle fuel at the kiosk.</li><li><strong>Pay at pump:</strong> outdoor payment terminals (OPTs) on or beside the pumps for card and fuel card payments, including out of hours.</li><li><strong>Fuel cards:</strong> accept commercial fuel cards such as those used by fleets and businesses, with the product restrictions and mileage prompts they need.</li><li><strong>Shop EPOS:</strong> barcode scanning, age-restricted sales, lottery and services, often with a convenience retail partner’s price files.</li><li><strong>Back office:</strong> wetstock (fuel stock) management, price changes, reports and head office links for dealer groups.</li></ul>"
+    },
+    {
+      "h2": "Fuel Finder: report price changes within 30 minutes",
+      "html": "<p>Since 2 February 2026, UK petrol stations must report fuel price changes to the government’s Fuel Finder scheme within 30 minutes of making them. The data feeds the Fuel Finder service and other price comparison tools, and the CMA monitors compliance. Ask your forecourt EPOS provider how price changes are sent automatically. Sources: <a href=\"https://www.fleetnews.co.uk/news/forecourts-must-submit-pump-price-changes-as-fuel-finder-launches\" rel=\"nofollow noopener\" target=\"_blank\">Fleet News</a>, <a href=\"https://www.gov.uk/government/organisations/competition-and-markets-authority\" rel=\"nofollow noopener\" target=\"_blank\">CMA</a>.</p>"
+    },
+    {
+      "h2": "Specialist forecourt providers",
+      "html": "<p>Forecourt EPOS is a specialist market. Established names in the UK include HTEC, Scheidt &amp; Bachmann, Madic and Gilbarco Veeder-Root, alongside systems supplied by fuel brands to their dealer sites. Card acquiring is usually contracted separately, so you can compare card rates with acquirers such as Worldpay, Elavon, Barclaycard, Lloyds Cardnet and Global Payments. If you hold a fuel brand supply agreement, check which EPOS and payment providers it requires.</p>"
+    },
+    {
+      "h2": "Keeping card costs down on fuel",
+      "html": "<p>Fuel sales are high-value and low-margin, so the percentage card rate matters a great deal. Large forecourts usually negotiate quoted or interchange++ pricing rather than flat rates. Commercial and fuel cards carry different costs from consumer cards. Get your card mix from your current statements and ask for prices on each card type. See <a href=\"/card-machine-fees/\">card machine fees</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a petrol station use a normal card machine?",
+      "a": "For the shop, yes, but a forecourt also needs pump control, pay-at-pump and fuel card acceptance, which standard card machines don’t provide. Most forecourts use a specialist forecourt EPOS."
+    },
+    {
+      "q": "What is Fuel Finder?",
+      "a": "A UK government scheme, live since 2 February 2026, requiring petrol stations to report price changes within 30 minutes. The data is published for drivers and comparison tools."
+    }
+  ],
+  "related": [
+    "epos-systems",
+    "card-machine-fees",
+    "switch-card-machine-provider",
+    "blog/contactless-limit-scrapped"
+  ]
+}

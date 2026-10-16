@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-16",
+  "slug": "card-machines-for-hospitality",
+  "title": "Card Machines for Cafés, Pubs and Restaurants (UK Guide)",
+  "description": "Pay-at-table terminals, hospitality EPOS, tips and split bills: how to choose a card machine for a café, pub, bar, takeaway or restaurant in the UK.",
+  "eyebrow": "Cafés · Pubs · Restaurants",
+  "h1": "Card machines for cafés, pubs and restaurants",
+  "intro": "In hospitality, the card machine affects table turns, tips and queues at the bar. Here’s what to look for in terminals and EPOS for cafés, coffee shops, pubs, bars, takeaways and restaurants.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556745753-b2904692b3cd",
+    "alt": "A barista smiling at a customer at a café checkout counter",
+    "credit": "Patrick Tomasso",
+    "creditUrl": "https://unsplash.com/@impatrickt"
+  },
+  "keywords": [
+    "card machine for cafe",
+    "card machine for pub",
+    "card machine for restaurant",
+    "hospitality epos",
+    "restaurant pos",
+    "pay at table",
+    "card machine for takeaway",
+    "bar epos",
+    "coffee shop pos"
+  ],
+  "cardText": "Pay at table, tips, tabs and kitchen-ready EPOS.",
+  "sections": [
+    {
+      "h2": "Features that matter in hospitality",
+      "html": "<ul><li><strong>Portable terminals for pay at table</strong>, with enough devices for busy service and long battery life.</li><li><strong>Tipping on the terminal</strong> and clear reports so tips can be shared fairly. Under the Employment (Allocation of Tips) Act 2023, employers in England, Scotland and Wales must pass on all tips to workers. See <a href=\"https://www.gov.uk/government/publications/distributing-tips-fairly-statutory-code-of-practice\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK’s tipping code</a>.</li><li><strong>Split bills and tabs</strong>, and the ability to pre-authorise a card for a bar tab.</li><li><strong>Kitchen and bar printing</strong> or kitchen display screens linked to your EPOS.</li><li><strong>Online ordering, delivery and booking</strong> integrations if you sell beyond your four walls.</li></ul>"
+    },
+    {
+      "h2": "Cafés and coffee shops: small sales, many transactions",
+      "html": "<p>A café might take hundreds of small payments a day. Per-transaction charges like authorisation fees can matter as much as the percentage rate, so compare total monthly cost, not just the headline rate. A flat-rate provider with no per-transaction fee can be competitive here. See <a href=\"/card-machine-fees/\">card machine fees</a>.</p>"
+    },
+    {
+      "h2": "Pubs and restaurants: integration and devices",
+      "html": "<p>Busy venues usually pair a hospitality EPOS with several portable terminals. Check how many terminals you need at peak, the monthly fee for each, whether they integrate with your EPOS, and how payouts and tips are reported. Hospitality-focused providers include Dojo, Toast, Lightspeed, Epos Now and Square for Restaurants. Compare them on our <a href=\"/epos-systems/\">EPOS page</a>.</p>"
+    },
+    {
+      "h2": "Service charges and surcharges",
+      "html": "<p>An optional, clearly shown service charge is different from a card surcharge. You can’t add a surcharge for paying by consumer card. Read <a href=\"/blog/can-you-charge-for-card-payments/\">can you charge for card payments?</a></p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is pay at table?",
+      "a": "Staff bring a portable card machine to the table so customers can pay, tip and split the bill without going to the counter. It needs portable (Wi-Fi/Bluetooth) or 4G terminals."
+    },
+    {
+      "q": "Do I need an EPOS system for a small café?",
+      "a": "Not always. A terminal with a free POS app can be enough for a small menu. A full EPOS helps once you need table plans, kitchen printing, stock or multiple staff logins."
+    }
+  ],
+  "related": [
+    "epos-systems",
+    "card-machine-fees",
+    "card-machines",
+    "business-types"
+  ]
+}

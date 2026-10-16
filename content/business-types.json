@@ -1,0 +1,78 @@
+{
+  "updated": "2026-10-16",
+  "slug": "business-types",
+  "nav": "By business",
+  "navOrder": 4,
+  "title": "Card Machines by Business Type: Find the Right Setup",
+  "description": "The right card machine and till depends on how you trade. Guides for shops, cafés, pubs, restaurants, salons, market stalls, tradespeople and petrol stations.",
+  "eyebrow": "Guides by business type",
+  "h1": "Card machines by business type",
+  "intro": "A coffee shop, a corner shop and a forecourt need very different payment setups. Pick your business to see what usually fits, what to ask providers and which costs matter most.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+    "alt": "A customer paying by card at a salon counter",
+    "credit": "Blake Wisz",
+    "creditUrl": "https://unsplash.com/@blakewisz"
+  },
+  "keywords": [
+    "card machine for small business",
+    "card machine for cafe",
+    "card machine for salon",
+    "card machine for hairdresser",
+    "card machine for market stall",
+    "card machine for pub",
+    "card machine for tradesmen"
+  ],
+  "cardText": "Shops, hospitality, salons, mobile traders and forecourts.",
+  "search": false,
+  "blocks": [
+    {
+      "type": "tiles",
+      "title": "Choose your business",
+      "items": [
+        {
+          "slug": "card-machines-for-shops",
+          "title": "Shops & retail",
+          "badge": "Counter",
+          "text": "Convenience stores, boutiques, gift shops and off-licences."
+        },
+        {
+          "slug": "card-machines-for-hospitality",
+          "title": "Cafés, pubs & restaurants",
+          "badge": "Pay at table"
+        },
+        {
+          "slug": "petrol-station-pos",
+          "title": "Petrol stations",
+          "badge": "Forecourt"
+        },
+        {
+          "slug": "mobile-card-readers",
+          "title": "Market stalls, trades & salons",
+          "badge": "Mobile"
+        },
+        {
+          "slug": "tap-to-pay-on-phone",
+          "title": "Sole traders: use your phone",
+          "badge": "No hardware"
+        },
+        {
+          "slug": "epos-systems",
+          "title": "Need a full till?",
+          "badge": "EPOS"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Quick guide: which setup fits?",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Business</th><th>Usual setup</th><th>Pricing to look at</th></tr></thead><tbody><tr><td>Market stall, pop-up, events</td><td>4G reader or phone (Tap to Pay)</td><td>Pay as you go, no monthly fee</td></tr><tr><td>Hairdresser, beauty, therapist</td><td>Reader or terminal + booking app</td><td>Pay as you go or subscription</td></tr><tr><td>Tradesperson, mobile services</td><td>4G reader, pay by link, invoices</td><td>Pay as you go; keyed and online rates</td></tr><tr><td>Café, takeaway</td><td>Terminal + POS app or EPOS</td><td>Flat rate vs quote; watch authorisation fees on small sales</td></tr><tr><td>Pub, restaurant</td><td>Hospitality EPOS + portable pay-at-table terminals</td><td>Quoted rates, terminal fees per device</td></tr><tr><td>Convenience store, retail</td><td>EPOS with scanner + integrated countertop terminal</td><td>Quoted rates once takings are higher</td></tr><tr><td>Petrol station</td><td>Forecourt EPOS + pay-at-pump terminals</td><td>Specialist forecourt providers + acquirer quote</td></tr></tbody></table></div>"
+    }
+  ],
+  "related": [
+    "card-machines",
+    "card-machine-fees",
+    "epos-systems"
+  ]
+}

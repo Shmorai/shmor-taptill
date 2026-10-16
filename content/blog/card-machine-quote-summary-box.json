@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog/card-machine-quote-summary-box",
+  "type": "post",
+  "date": "2026-10-12",
+  "eyebrow": "Contracts & switching",
+  "title": "How to Read a Card Machine Quote (and the PSR Summary Box)",
+  "description": "Large UK card acquirers must give small businesses a summary box of prices and renewal reminders. How to read a quote and compare providers like for like.",
+  "h1": "How to read a card machine quote",
+  "intro": "Card machine quotes can be hard to compare. UK rules now require the biggest providers to show key prices in a standard format. Here’s how to use it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556742208-999815fca738",
+    "alt": "A person using a white tablet till at a counter",
+    "credit": "Clay Banks",
+    "creditUrl": "https://unsplash.com/@claybanks"
+  },
+  "keywords": [
+    "card machine quote",
+    "summary box",
+    "psr card acquiring",
+    "trigger message",
+    "card machine contract renewal",
+    "compare card machine quotes",
+    "merchant statement"
+  ],
+  "cardText": "Summary boxes, renewal reminders and comparing like for like.",
+  "sources": [
+    {
+      "title": "Payment Systems Regulator: PS22/2 card-acquiring final decision",
+      "url": "https://www.psr.org.uk/publications/policy-statements/ps22-2-camr-final-decision/"
+    },
+    {
+      "title": "PSR: implementation advice for card-acquiring remedies",
+      "url": "https://psr.org.uk/publications/market-reviews/implementation-advice-for-card-acquiring-market-remedies/"
+    },
+    {
+      "title": "Hogan Lovells: PSR final decision on card-acquiring remedies",
+      "url": "https://www.engage.hoganlovells.com/knowledgeservices/news/card-acquiring-services-psr-final-decision-on-remedies-aimed-at-triggering-merchant-engagement"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why the rules exist",
+      "html": "<p>The Payment Systems Regulator (PSR) reviewed the card-acquiring market and found that many small businesses rarely switched or shopped around, partly because prices were hard to compare. In 2022 it required the largest acquirers to make pricing clearer. The PSR’s functions are due to move into the FCA under government plans, but the requirements continue.</p>"
+    },
+    {
+      "h2": "Summary boxes, quote tools and reminders",
+      "html": "<ul><li><strong>Summary box:</strong> a standard table of your key prices and terms, so you can compare providers.</li><li><strong>Online quotation tools:</strong> large acquirers must offer a way to get an indicative price online.</li><li><strong>Trigger messages:</strong> reminders before your initial minimum term ends, and once a year after that, prompting you to review your deal.</li></ul><p>The rules apply to merchants with card turnover up to £50 million a year, and took effect from July 2023. The PSR also limited the length of point-of-sale terminal contracts.</p>"
+    },
+    {
+      "h2": "Read a quote line by line",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Line</th><th>Question to ask</th></tr></thead><tbody><tr><td>Debit / credit rates</td><td>Are consumer, business and non-UK cards priced differently?</td></tr><tr><td>Authorisation fee</td><td>How much per transaction? Multiply by your monthly count.</td></tr><tr><td>Terminal fee</td><td>Per terminal, per month? Rented or leased? Who owns it?</td></tr><tr><td>Minimum monthly charge</td><td>What happens in a quiet month?</td></tr><tr><td>PCI fees</td><td>Is there a fee if I don’t complete the questionnaire?</td></tr><tr><td>Contract</td><td>Minimum term, notice period, renewal, exit fees</td></tr><tr><td>Payouts</td><td>When does money arrive, and into which account?</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Compare like for like",
+      "html": "<p>Ask every provider to quote on the same recent statement. Then calculate one number for each: <strong>total cost per month</strong>, including every fee, for a typical month and a quiet month. That beats comparing headline rates. Our <a href=\"/card-machine-fees/\">fees guide</a> has the formula, and <a href=\"/switch-card-machine-provider/\">switching guide</a> covers the move.</p>"
+    }
+  ],
+  "related": [
+    "switch-card-machine-provider",
+    "card-machine-fees",
+    "card-machines"
+  ]
+}

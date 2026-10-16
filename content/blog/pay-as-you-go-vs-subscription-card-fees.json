@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog/pay-as-you-go-vs-subscription-card-fees",
+  "type": "post",
+  "date": "2026-10-13",
+  "eyebrow": "Fees & money-saving",
+  "title": "Pay As You Go vs Subscription Card Fees: When Does It Pay?",
+  "description": "A worked example comparing a 1.69% pay-as-you-go card rate with a £19-a-month plan at 0.99%: the break-even point and what to check before you switch.",
+  "h1": "Pay as you go or subscription: when does a monthly plan pay off?",
+  "intro": "Several card machine providers now offer a monthly subscription that lowers your transaction rate. Here’s how to work out whether it saves you money, using published figures.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595513693496-ff2a21d4ee8b",
+    "alt": "A person holding a calculator",
+    "credit": "Duncan Meyer",
+    "creditUrl": "https://unsplash.com/@dunc_in"
+  },
+  "keywords": [
+    "sumup payments plus",
+    "card fee subscription",
+    "pay as you go card machine",
+    "cheapest card machine",
+    "card machine monthly fee",
+    "payments plus worth it"
+  ],
+  "cardText": "The break-even maths for monthly card fee plans.",
+  "sources": [
+    {
+      "title": "SumUp: pricing (UK)",
+      "url": "https://www.sumup.com/en-gb/pricing/"
+    },
+    {
+      "title": "Square: pricing (UK)",
+      "url": "https://squareup.com/gb/en/pricing"
+    },
+    {
+      "title": "PayPal Point of Sale (Zettle): pricing",
+      "url": "https://www.zettle.com/gb/pricing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The example: SumUp pay as you go vs Payments Plus",
+      "html": "<p>As published in October 2026, SumUp charges <strong>1.69%</strong> on pay as you go with no monthly fee, or <strong>£19 a month</strong> for Payments Plus with a headline rate of <strong>0.99%</strong>. The subscription saves 0.70% on eligible card takings, so the break-even point is:</p><div class=\"figure-row\"><div class=\"figure\"><b>£2,714</b><span>monthly card takings to break even (£19 ÷ 0.70%)</span></div></div><div class=\"table-wrap\"><table><thead><tr><th>Monthly card takings</th><th>PAYG at 1.69%</th><th>Plus: £19 + 0.99%</th><th>Difference</th></tr></thead><tbody><tr><td>£1,000</td><td>£16.90</td><td>£28.90</td><td>PAYG £12.00 cheaper</td></tr><tr><td>£2,500</td><td>£42.25</td><td>£43.75</td><td>PAYG £1.50 cheaper</td></tr><tr><td>£5,000</td><td>£84.50</td><td>£68.50</td><td>Plus £16.00 cheaper</td></tr><tr><td>£10,000</td><td>£169.00</td><td>£118.00</td><td>Plus £51.00 cheaper</td></tr></tbody></table></div><p class=\"source-note\">Simple illustration using headline rates. Check which card types the 0.99% applies to, and whether online, keyed or international payments are charged differently.</p>"
+    },
+    {
+      "h2": "Seasonal businesses: count your quiet months",
+      "html": "<p>The subscription costs £19 even in months when takings are low. If you trade heavily in summer and barely at all in winter, total the year: an annual plan or switching between plans (if allowed) may change the answer.</p>"
+    },
+    {
+      "h2": "Other flat-rate providers",
+      "html": "<p>Square and PayPal Point of Sale both publish 1.75% for in-person UK cards with no monthly fee. Square’s paid plans (from £29 a month) add software features rather than lowering the in-person card rate, so compare them on features. Above around £10,000 a month, SumUp and others offer custom pricing, and quoted contracts become worth exploring: see <a href=\"/card-machines/\">all providers</a>.</p>"
+    },
+    {
+      "h2": "How to decide",
+      "html": "<ol><li>Add up your last 12 months of card takings and divide by 12.</li><li>Check your quietest month.</li><li>Compare the yearly cost on each plan, including hardware.</li><li>Get a quote from one or two contract providers if you’re above a few thousand pounds a month.</li></ol><p>More detail in our <a href=\"/card-machine-fees/\">card machine fees guide</a>.</p>"
+    }
+  ],
+  "related": [
+    "card-machine-fees",
+    "card-machines",
+    "mobile-card-readers"
+  ]
+}

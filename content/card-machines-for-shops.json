@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-16",
+  "slug": "card-machines-for-shops",
+  "title": "Card Machines & EPOS for Shops and Retail in the UK",
+  "description": "Choosing a card machine and till for a shop, convenience store or boutique: countertop terminals, barcode EPOS, stock control and keeping card fees down.",
+  "eyebrow": "Shops & retail",
+  "h1": "Card machines for shops and retail",
+  "intro": "For a shop, the card machine and the till work as a team. Here’s how to choose a setup for a convenience store, newsagent, boutique, off-licence or gift shop, and how to keep fees in check as your takings grow.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556742212-5b321f3c261b",
+    "alt": "A shop worker holding a white card payment terminal",
+    "credit": "Clay Banks",
+    "creditUrl": "https://unsplash.com/@claybanks"
+  },
+  "keywords": [
+    "card machine for shop",
+    "retail pos",
+    "retail card machine",
+    "convenience store epos",
+    "shop till system",
+    "barcode till",
+    "card machine for convenience store",
+    "newsagent epos"
+  ],
+  "cardText": "Countertop terminals, barcode tills and stock control.",
+  "sections": [
+    {
+      "h2": "What a shop usually needs",
+      "html": "<ul><li><strong>A countertop or portable terminal</strong> beside the till, ideally integrated so the amount appears automatically.</li><li><strong>EPOS with barcode scanning</strong> and stock control if you sell more than a handful of lines. See <a href=\"/epos-systems/\">EPOS systems</a>.</li><li><strong>Fast contactless</strong> for queues. Since March 2026 card issuers can set their own contactless limits: see <a href=\"/blog/contactless-limit-scrapped/\">what changed</a>.</li><li><strong>Cash handling</strong> too: a cash drawer that opens from the till and end-of-day cash-up reports.</li><li><strong>Age-restricted sales prompts</strong> for alcohol, tobacco and knives, if you sell them. Many EPOS systems can prompt staff to check ID.</li></ul>"
+    },
+    {
+      "h2": "Convenience stores and newsagents",
+      "html": "<p>Convenience retail has high transaction counts and small average sales, so per-transaction fees matter more than usual. When you compare quotes, multiply any authorisation fee by your monthly number of transactions. Ask whether the EPOS supports wholesaler price files, promotions, PayPoint-style services you already use, and integrated scales if you sell loose goods.</p>"
+    },
+    {
+      "h2": "Boutiques and independent retailers",
+      "html": "<p>If you also sell online, an omnichannel POS that shares stock with your website (for example Shopify POS, Square or Lightspeed) prevents selling the same item twice. Look for size and colour variants, customer profiles, gift cards and easy returns.</p>"
+    },
+    {
+      "h2": "When to move from a reader to a contract",
+      "html": "<p>Many shops start with a pay-as-you-go reader. As card takings grow, get quotes: a contract with a lower rate and a monthly terminal fee can work out cheaper. Use our <a href=\"/card-machine-fees/\">fees guide</a> to compare, and check the minimum term before signing. If you’re already on a contract, see <a href=\"/switch-card-machine-provider/\">switching provider</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What card machine do most small shops use?",
+      "a": "Small shops commonly start with pay-as-you-go readers or terminals from providers such as SumUp, Square or PayPal Point of Sale, and move to quoted contracts with providers such as Dojo, Teya, Worldpay or their bank as takings grow."
+    },
+    {
+      "q": "Can I charge a minimum spend for card payments?",
+      "a": "UK law doesn’t ban minimum card spends, but card scheme rules may restrict them and they can put customers off. Check your provider’s terms first. Surcharging consumer cards is banned."
+    }
+  ],
+  "related": [
+    "epos-systems",
+    "card-machine-fees",
+    "card-machines",
+    "blog/can-you-charge-for-card-payments"
+  ]
+}
