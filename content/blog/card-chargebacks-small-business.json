@@ -1,0 +1,85 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "slug": "blog/card-chargebacks-small-business",
+  "type": "post",
+  "title": "Card Chargebacks: What Small Businesses Should Do",
+  "description": "Card chargebacks explained for UK small businesses: how disputes work, the 120-day window, what evidence to keep, how to respond and how to prevent them.",
+  "h1": "Card chargebacks: how they work and what to do when one lands",
+  "eyebrow": "Card machines · Disputes",
+  "intro": "A chargeback is a customer asking their bank to reverse a card payment. For a shop, café or salon taking card payments every day, it is a matter of when, not if. Knowing the process, keeping the right evidence and replying fast can keep most of that money.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cafe_counter_in_Serpentine_Gallery_Pavilion_2014_-_geograph.org.uk_-_4046298.jpg/1920px-Cafe_counter_in_Serpentine_Gallery_Pavilion_2014_-_geograph.org.uk_-_4046298.jpg",
+    "alt": "A café counter with a till area and display cabinets",
+    "credit": "David Hawgood / CC BY-SA 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cafe_counter_in_Serpentine_Gallery_Pavilion_2014_-_geograph.org.uk_-_4046298.jpg"
+  },
+  "keywords": [
+    "card chargeback small business",
+    "how to dispute a chargeback",
+    "chargeback card machine",
+    "chargeback fee uk",
+    "chargeback evidence",
+    "what is a chargeback",
+    "chargeback time limit 120 days",
+    "card payment dispute merchant",
+    "chargeback reason codes",
+    "how to prevent chargebacks"
+  ],
+  "cardText": "How chargebacks work, the 120-day window, evidence to keep and how to respond and prevent them.",
+  "sections": [
+    {
+      "h2": "What a chargeback is, and who is involved",
+      "html": "<p>A chargeback is a formal dispute raised by a cardholder through their issuing bank to reverse a payment. Five parties are involved: the <strong>cardholder</strong>, the <strong>issuer</strong> (their bank), you (the <strong>merchant</strong>), your <strong>acquirer</strong> (the company that processes your card payments) and the <strong>card scheme</strong> (such as Visa or Mastercard). Each scheme runs its own rules, but they are broadly similar. Importantly, you generally reply through your acquirer or provider rather than directly to the bank, so read the dispute section of your <a href=\"/card-machines/\">card machine</a> agreement.</p>"
+    },
+    {
+      "h2": "Why chargebacks happen",
+      "html": "<p>Elavon's small-business guide groups chargeback reason codes into four categories:</p><ul><li><strong>Fraud:</strong> the card was used without the owner's authorisation.</li><li><strong>Consumer dispute:</strong> goods or services not received, or defective.</li><li><strong>Processing error:</strong> duplicate or incorrect amount.</li><li><strong>Authorisation issue:</strong> missing or improper approval.</li></ul><p>Customers sometimes dispute a payment because they do not recognise your business name on their statement, so make sure the name on statements matches your trading name.</p>"
+    },
+    {
+      "h2": "Time limits and costs",
+      "html": "<p>Chargebacks can usually be filed within <strong>120 days</strong> of the transaction or the expected service date, while some extend to 540 days in special cases, such as travel or postponed services, and it can vary by scheme and reason code. Elavon notes that missing a deadline means an automatic loss, and that resolution can take from a few days to many months.</p><p>Costs: providers usually charge a fee per chargeback (check your contract: <a href=\"/card-machine-fees/\">our fee guide</a> lists what providers publish), plus you may lose the sale itself. If the dispute cannot be settled, it can go to the card scheme's arbitration process, and Elavon warns a fee above €500 may be passed on to the merchant. Too many chargebacks can also affect your status as a merchant.</p>"
+    },
+    {
+      "h2": "How to respond, step by step",
+      "html": "<ol><li><strong>Read the notice</strong> from your provider and note the deadline.</li><li><strong>Gather evidence:</strong> receipts, terms and conditions, delivery confirmation, booking records and customer emails.</li><li><strong>Reply promptly</strong> through your provider's chargeback channel, following the guidance for the reason code. You may only get one chance to respond, so include everything up front.</li><li><strong>Track updates</strong> until the case closes.</li></ol><p>Not every request is a chargeback. A <em>retrieval request</em> asks for a document such as a signed receipt and can come first, and a <em>good faith</em> request is a voluntary request for funds. Reply to those too. For card-present sales, the merchant must show the cardholder had no right to dispute, so a chip-and-PIN or contactless record plus the till receipt matters.</p>"
+    },
+    {
+      "h2": "How to prevent chargebacks",
+      "html": "<ul><li><strong>Use secure payment methods:</strong> chip and PIN, contactless within limits and 3D Secure for online payments are generally considered secure transactions.</li><li><strong>Keep records</strong> of every sale, receipt and proof of delivery or service.</li><li><strong>Display refund and returns policies</strong> clearly. Our <a href=\"/blog/can-you-charge-for-card-payments/\">card payments rules post</a> covers what you can charge.</li><li><strong>Refund promptly</strong> once agreed, so customers do not escalate.</li><li><strong>Keep your contact details visible</strong> and reply quickly to complaints.</li><li><strong>Check PCI-DSS compliance</strong> with your provider.</li></ul><p class=\"note\"><strong>General information, not financial or legal advice.</strong> Dispute rules come from card schemes and your provider's terms; always check your own merchant agreement.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do customers have to raise a chargeback?",
+      "a": "Usually 120 days from the transaction or expected service date, with some cases extended up to 540 days. It varies by card scheme and reason code."
+    },
+    {
+      "q": "Do I have to pay a fee for a chargeback?",
+      "a": "Providers commonly charge a fee per chargeback, set out in your contract, and you may also lose the sale amount. Check your own agreement or published price list."
+    },
+    {
+      "q": "What evidence helps me win a chargeback?",
+      "a": "Receipts, your terms and refund policy, proof of delivery or service, and customer correspondence. The right documents depend on the reason code in the notice."
+    },
+    {
+      "q": "Is a chargeback the same as a refund?",
+      "a": "No. A refund is something you agree to give. A chargeback is started by the customer's bank and can happen even if you offered a refund, so refund quickly once you agree."
+    }
+  ],
+  "related": [
+    "card-machines",
+    "card-machine-fees",
+    "blog/pay-as-you-go-vs-subscription-card-fees"
+  ],
+  "sources": [
+    {
+      "title": "Simplifying chargebacks: guide for small businesses (Elavon UK)",
+      "url": "https://www.elavon.co.uk/content/dam/elavon/en-gb/v2/documents/resource-center/help-with-your-account/managing-your-account/chargebacks/01_Elavon_Simplifying-chargebacks_V03.pdf"
+    },
+    {
+      "title": "What is a chargeback (Elavon UK)",
+      "url": "https://www.elavon.co.uk/customer-centre/help-with-your-account/managing-your-account/chargeback/what-is-a-chargeback.html"
+    }
+  ]
+}
