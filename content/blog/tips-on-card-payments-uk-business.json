@@ -1,0 +1,90 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "slug": "blog/tips-on-card-payments-uk-business",
+  "type": "post",
+  "title": "Card Tips in the UK: Rules for Businesses in 2027",
+  "description": "Taking tips on a card machine? What the UK tipping law requires, why card fees can't come out of tips, and what changes when the revised code starts in 2027.",
+  "h1": "Taking tips on your card machine: what UK businesses must do",
+  "eyebrow": "Explainer · Tips and card payments",
+  "intro": "If customers can add a tip when they tap their card, that money is covered by UK tipping law. The rules have applied since October 2024, and a revised code of practice is due to start on 1 January 2027, subject to Parliament. Here is what it means for the way you set up and run your card machine, as of November 2026. This is general information, not legal advice.",
+  "cardText": "Card tips, the Allocation of Tips Act, why card fees can't be deducted, and the January 2027 code.",
+  "keywords": [
+    "card machine tips uk",
+    "tipping law uk",
+    "employment allocation of tips act",
+    "tips on card payments",
+    "can employers deduct card fees from tips",
+    "tipping code of practice 2027",
+    "service charge law uk",
+    "tip prompt card machine",
+    "tronc uk",
+    "restaurant tips law",
+    "tips policy template",
+    "card machine for restaurants"
+  ],
+  "sections": [
+    {
+      "h2": "What the tipping law says about card tips",
+      "html": "<p>The <strong>Employment (Allocation of Tips) Act 2023</strong> has applied in Great Britain since <strong>1 October 2024</strong>. It covers tips, gratuities and service charges that customers pay, including those added on a card machine, and requires employers to pass them on to workers. Under the government's own description of the law, tips must be passed on <strong>without deductions</strong> other than those the law requires, such as tax. Employers must also have a written tipping policy and deal with tips fairly and transparently, following a statutory code of practice.</p><p>The Act is enforced through employment tribunals. If you run a café, pub, restaurant, salon or any business where customers tip, it applies whether the tip is cash or on the terminal. Our guide to <a href=\"/card-machines-for-hospitality/\">card machines for hospitality</a> covers the equipment side.</p>"
+    },
+    {
+      "h2": "Can you take card fees out of tips?",
+      "html": "<p>Generally no. In its November 2026 consultation response, the government said it was <strong>not enacting</strong> calls from some employers to be allowed to deduct admin, processing or card charge fees from tronc distributions, while acknowledging that the recurring cost is a real concern for businesses. In practice, that means the processing fee on a tip is a business cost, not something to pass on to staff.</p><p>It is worth understanding that cost before you switch tip prompts on. On a <a href=\"/blog/pay-as-you-go-vs-subscription-card-fees/\">pay-as-you-go or subscription plan</a>, a tip raises the amount of the transaction and therefore the percentage fee on it. Check your provider's published rates on our <a href=\"/card-machine-fees/\">card machine fees</a> page, and build the cost into your pricing rather than your staff's share.</p>"
+    },
+    {
+      "h2": "What changes on 1 January 2027",
+      "html": "<p>A revised statutory code has been laid before Parliament. The government expects it to come into force on <strong>1 January 2027</strong>, subject to parliamentary approval and commencement regulations; it said it chose that date to avoid the busy Christmas period. The plan is also to require employers to <strong>consult workers</strong> at the relevant place of business when writing or revising a tipping policy, and to review the policy within three years of adopting it. Businesses with a policy written between October 2024 and January 2027 must review it, consult and update it where appropriate within three years of when it was written or last reviewed.</p><p>Until then, follow the existing code. Because the status of the code has changed more than once this year, check the GOV.UK tipping pages before relying on any date here.</p>"
+    },
+    {
+      "h2": "Setting up tips on your terminal: a practical checklist",
+      "html": "<ul><li><strong>Decide how tips are split first.</strong> Put it in your written policy before you enable tip prompts, then tell your team.</li><li><strong>Keep clean records.</strong> Use your terminal or EPOS reports to show tips received per day or shift, so you can show how they were paid out.</li><li><strong>Pay on time and in full.</strong> Tips go through payroll or a documented route, not into the till float.</li><li><strong>Be clear with customers.</strong> A tip prompt or service charge should be obvious on the screen and the bill. Our guide on <a href=\"/blog/can-you-charge-for-card-payments/\">charging for card payments</a> explains why separate card surcharges are banned.</li><li><strong>Ask your provider</strong> how tips are reported, whether tip adjustments after authorisation are supported, and how tip payments appear in settlement reports. Features differ by provider and plan, so check before you buy using our <a href=\"/card-machines/\">card machine comparison</a>.</li></ul>"
+    },
+    {
+      "h2": "Where mistakes happen",
+      "html": "<p>Common problems are running tips through the business's account without recording them, deducting a \"card fee\" from staff shares, using a policy that was never shared with workers, and forgetting tips when the team changes. A single complaint can lead to a tribunal claim, so a dated written policy and consistent records are the cheapest protection. If you are unsure, <a href=\"https://www.acas.org.uk/\" rel=\"nofollow noopener\">Acas</a> offers free guidance for employers and a solicitor or accountant can check your set-up.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do tips paid by card have to go to staff?",
+      "a": "Yes. Tips, gratuities and service charges covered by the Employment (Allocation of Tips) Act must be passed on to workers whether paid in cash or by card, without deductions other than those required by law."
+    },
+    {
+      "q": "Can I deduct card processing fees from staff tips?",
+      "a": "The government's November 2026 consultation response confirmed it is not enacting requests to allow deductions for admin, processing or card charge fees, so you should treat those fees as a business cost."
+    },
+    {
+      "q": "When does the new tipping code start?",
+      "a": "It is expected to come into force on 1 January 2027, subject to parliamentary approval. Check GOV.UK for the current position."
+    },
+    {
+      "q": "Where can I get free help writing a tipping policy?",
+      "a": "Acas publishes free guidance for employers, and the GOV.UK statutory code explains what a written tipping policy should cover. A solicitor or accountant can check your set-up."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Making Work Pay, revised tipping code of practice (consultation and response)",
+      "url": "https://www.gov.uk/government/consultations/make-work-pay-revised-tipping-code-of-practice"
+    },
+    {
+      "title": "GOV.UK: Distributing tips fairly, statutory code of practice",
+      "url": "https://www.gov.uk/government/publications/distributing-tips-fairly-revised-statutory-code-of-practice"
+    },
+    {
+      "title": "Employment (Allocation of Tips) Act 2023, legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/2023/13/contents"
+    },
+    {
+      "title": "Acas",
+      "url": "https://www.acas.org.uk/"
+    }
+  ],
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/LaCuCa_card_reader_-_payment_terminal_at_supermarket_register.jpg/1920px-LaCuCa_card_reader_-_payment_terminal_at_supermarket_register.jpg",
+    "alt": "A card payment terminal at a shop checkout",
+    "credit": "Syced / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:LaCuCa_card_reader_-_payment_terminal_at_supermarket_register.jpg"
+  }
+}
