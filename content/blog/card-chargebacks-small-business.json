@@ -70,7 +70,8 @@
   "related": [
     "card-machines",
     "card-machine-fees",
-    "blog/pay-as-you-go-vs-subscription-card-fees"
+    "blog/pay-as-you-go-vs-subscription-card-fees",
+    "blog/pci-dss-card-machine-small-business"
   ],
   "sources": [
     {

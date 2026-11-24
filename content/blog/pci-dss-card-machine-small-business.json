@@ -1,0 +1,89 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "slug": "blog/pci-dss-card-machine-small-business",
+  "type": "post",
+  "title": "PCI DSS for Small Businesses with Card Machines",
+  "description": "What PCI DSS means for UK shops and cafés using card machines: who must comply, who checks, what a PCI fee is and questions to ask your provider.",
+  "h1": "PCI DSS and your card machine: what small UK businesses need to know",
+  "eyebrow": "Guide · Compliance",
+  "intro": "If you take cards, you will probably see \"PCI\" in your contract or on a monthly statement. It is not a government law, and the way it is handled differs between providers. Here is what PCI DSS is, who it applies to and what to ask your card machine provider, as of November 2026. General information, not financial advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+    "alt": "A customer paying by card at a salon counter",
+    "credit": "Blake Wisz",
+    "creditUrl": "https://unsplash.com/@blakewisz"
+  },
+  "keywords": [
+    "pci dss small business uk",
+    "pci compliance card machine",
+    "pci fee card machine",
+    "what is pci dss",
+    "pci non compliance fee",
+    "pci self assessment questionnaire",
+    "do i need pci compliance",
+    "card machine pci charges",
+    "pci dss for shops and cafes",
+    "pci compliance monthly fee uk"
+  ],
+  "cardText": "What PCI DSS is, who enforces it, why some providers charge a PCI fee, and what to ask before you sign.",
+  "sections": [
+    {
+      "h2": "What PCI DSS is",
+      "html": "<p>The Payment Card Industry Data Security Standard (PCI DSS) is a security standard developed and maintained by the PCI Security Standards Council to protect payment account data. According to the Council it is intended for entities that store, process or transmit payment account data. Visa, Mastercard, American Express, Discover and JCB founded the Council in 2006, and each includes PCI DSS in its own data security compliance programme. In short: it is an industry rulebook that card schemes and acquirers apply to merchants, not an Act of Parliament.</p>"
+    },
+    {
+      "h2": "Who enforces it?",
+      "html": "<p>The Council itself does not enforce the standard or monitor compliance. Instead, the payment brands and acquirers (the companies that process your card payments) decide whether a merchant must validate compliance and how. That is why requirements look different from one provider to another: your acquirer's agreement and the way you take payments determine what you are asked to do. If you are comparing providers, our <a href=\"/card-machine-fees/\">card machine fees guide</a> and <a href=\"/card-machines/\">provider comparison</a> list how each presents costs.</p>"
+    },
+    {
+      "h2": "What small businesses are usually asked to do",
+      "html": "<p>Small merchants are often asked to complete a <strong>self-assessment questionnaire (SAQ)</strong>. The right version depends on how you take cards. As a guide from the Council's documents: standalone dial-out terminals and imprint machines use SAQ B; standalone IP-connected terminals approved by the Council use SAQ B-IP; hardware terminals in a validated point-to-point encryption (P2PE) solution use SAQ P2PE; keyed entry through a web-based virtual terminal uses SAQ C-VT; and SAQ D is the catch-all for everyone else. The Council updates these documents with new versions of the standard, so check the current list and ask your acquirer which one it expects.</p><p>Practical habits help whichever form you complete: keep terminals in sight, never write down card numbers, restrict who can access them, update software, and use <a href=\"/mobile-card-readers/\">approved readers</a> from your provider.</p>"
+    },
+    {
+      "h2": "PCI fees: what to look for",
+      "html": "<p>Some providers charge a monthly or annual \"PCI\" or \"compliance\" fee, and some add a larger \"non-compliance\" charge if you have not completed the paperwork. Fees and rules vary by provider and contract, and we don't publish an invented average. Before signing, ask:</p><ul><li>Is there a PCI or compliance fee, and is it charged monthly or yearly?</li><li>What happens if I have not completed the questionnaire, and when is it due?</li><li>Do you provide a portal and support to complete it?</li><li>Is the fee shown in my quote summary box?</li></ul><p>Our guide to the <a href=\"/blog/card-machine-quote-summary-box/\">quote summary box</a> explains where recurring charges should show up, and the <a href=\"/switch-card-machine-provider/\">switching guide</a> covers contract exit terms.</p>"
+    },
+    {
+      "h2": "Card data and chargebacks",
+      "html": "<p>PCI is about protecting card data, which is a separate issue from disputes. If a customer disputes a payment, read <a href=\"/blog/card-chargebacks-small-business/\">card chargebacks for small businesses</a>. If you suspect a breach, contact your provider straight away, because it will have its own reporting process.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is PCI DSS a legal requirement in the UK?",
+      "a": "It is an industry standard, not an Act of Parliament. Card brands and acquirers decide whether you must validate compliance, and it is normally written into your merchant agreement."
+    },
+    {
+      "q": "Who checks that I am compliant?",
+      "a": "The PCI Security Standards Council does not monitor implementation. Acquirers and the payment brands run the compliance programmes, so your provider will usually tell you what to submit."
+    },
+    {
+      "q": "Why does my provider charge a PCI fee?",
+      "a": "Some charge for a compliance portal and support or as a penalty if paperwork is missing. Policies vary, so ask your provider what the fee covers and whether it is avoidable."
+    },
+    {
+      "q": "Which questionnaire should I complete?",
+      "a": "It depends on how you take cards, such as standalone terminal, P2PE terminal or virtual terminal. Confirm with your acquirer which form it requires."
+    }
+  ],
+  "related": [
+    "card-machines",
+    "card-machine-fees",
+    "blog/card-chargebacks-small-business"
+  ],
+  "sources": [
+    {
+      "title": "PCI Security Standards Council: About us",
+      "url": "https://www.pcisecuritystandards.org/about_us/"
+    },
+    {
+      "title": "PCI SSC: SAQ instructions and guidelines (document library)",
+      "url": "https://listings.pcisecuritystandards.org/documents/SAQ-InstrGuidelines-v3_2_1.pdf"
+    },
+    {
+      "title": "PCI SSC: SAQ P2PE (v4.0.1)",
+      "url": "https://docs-prv.pcisecuritystandards.org/SAQ%20(Assessment)/SAQ/PCI-DSS-v4-0-1-SAQ-P2PE.pdf"
+    }
+  ]
+}
