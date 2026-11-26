@@ -1,0 +1,84 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "slug": "blog/card-machine-contract-length-how-to-leave",
+  "type": "post",
+  "title": "Card Machine Contract Length: How to Leave Early",
+  "description": "Stuck in a card machine contract? How terminal lease limits, trigger messages and summary boxes work in the UK, and the steps to switch provider safely.",
+  "h1": "Card machine contract length: your options when you want to switch",
+  "eyebrow": "Guide · Switching",
+  "intro": "Card machine contracts are often where the real cost hides: a terminal lease that outlasts the payment deal, a long minimum term, or a renewal you did not notice. UK rules changed in 2023 to make leaving easier, but they only help if you know what to look for. This guide covers what the Payment Systems Regulator required, how to read your own paperwork, and how to switch with the least pain, as of November 2026. Not financial advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628527304948-06157ee3c8a6",
+    "alt": "A person holding a payment card near a card terminal on an orange background",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "keywords": [
+    "card machine contract length",
+    "card machine contract cancel",
+    "card machine contract early termination",
+    "leave card machine contract uk",
+    "terminal lease 18 months",
+    "card machine minimum term",
+    "switch card machine provider",
+    "trigger message card machine",
+    "card machine summary box",
+    "stuck in card machine contract",
+    "card terminal rental contract"
+  ],
+  "cardText": "The UK limit on terminal lease terms, what trigger messages and summary boxes tell you, and steps to switch without surprise bills.",
+  "sections": [
+    {
+      "h2": "Two contracts, not one",
+      "html": "<p>Many merchants are tied to <strong>two separate agreements</strong>: the card-acquiring contract (the service that takes the money from card payments) and the terminal agreement (the lease or rental of the physical machine). They can have different start dates, minimum terms and notice rules, which is why cancelling one does not always free you from the other.</p><p>The Payment Systems Regulator's card-acquiring market review found that point-of-sale terminal contracts could run longer than the acquiring contract itself, making it hard to move provider without paying for a terminal you could no longer use. Read both documents before you decide, and compare the fees in our <a href=\"/card-machine-fees/\">card machine fees guide</a>.</p>"
+    },
+    {
+      "h2": "The 18-month cap on terminal lease terms",
+      "html": "<p>After the review, the PSR issued directions to the biggest providers. One of them (Specific Direction 16) limits the <strong>initial minimum term of a POS terminal lease or rental to 18 months</strong>, and applies from 6 January 2023. After the initial term, contracts should move to short rolling terms rather than automatically renewing for years (PSR). Contracts agreed before the change were allowed to run their initial term first.</p><p>Two limits matter. The rule covers the providers the PSR directed, not every company that sells or leases terminals, and it concerns leases and rentals, not a machine you bought outright. So always check the exact provider and contract type on your paperwork.</p>"
+    },
+    {
+      "h2": "Summary boxes and trigger messages",
+      "html": "<p>From 6 July 2023, directed card-acquiring providers have to send merchants two things. A <strong>summary box</strong> sets out key prices and non-price terms for your deal in a standard layout, and providers have to make it available in your online account. A <strong>trigger message</strong> reminds you to shop around, timed before your minimum term or a renewal ends, and sent regularly where there is no fixed end date.</p><p>If you have received one, use it: the end date and notice period are the dates your switch plan hangs on. Our guide to <a href=\"/blog/card-machine-quote-summary-box/\">reading a quote and the summary box</a> explains each line.</p>"
+    },
+    {
+      "h2": "How to leave a card machine contract",
+      "html": "<ol><li><strong>Gather the paperwork:</strong> acquiring agreement, terminal lease, latest statement, summary box and any trigger message.</li><li><strong>Find the dates:</strong> end of minimum term, notice period and any fee for early exit. Do not rely on memory or a sales call.</li><li><strong>Get quotes</strong> from at least two or three other providers and check whether your current terminal works with them. Pay-as-you-go options are covered in our <a href=\"/blog/pay-as-you-go-vs-subscription-card-fees/\">pay as you go versus subscription</a> comparison.</li><li><strong>Give notice in writing</strong> using the method the contract names, and keep proof of delivery.</li><li><strong>Time the changeover</strong> so you are never without a way to take cards, then return leased equipment as instructed and keep the receipt.</li></ol><p>The step-by-step version is on our <a href=\"/switch-card-machine-provider/\">switching providers</a> page.</p>"
+    },
+    {
+      "h2": "Before you sign a new one",
+      "html": "<p>Ask the provider to put in writing the initial term, how renewal works, the notice period, what happens if you stop using the terminal and whether the terminal is yours or leased. Compare providers on equal terms using our <a href=\"/card-machines/\">card machine comparison</a>; we list them alphabetically and do not rank them.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can a card machine contract last in the UK?",
+      "a": "For terminal leases and rentals from the providers the PSR directed, the initial minimum term is capped at 18 months, with short rolling terms after that, as of November 2026. Other agreements and providers can differ, so read your contract."
+    },
+    {
+      "q": "Can I cancel my card machine contract early?",
+      "a": "Only on the terms in your contract. Early exit fees or remaining lease payments may apply, so check your terminal lease and acquiring agreement and ask the provider for a written figure."
+    },
+    {
+      "q": "What is a card machine trigger message?",
+      "a": "A message from your provider reminding you to review your deal, sent before the end of your minimum term or renewal, or regularly where there is no fixed end date."
+    },
+    {
+      "q": "Do these rules apply if I bought my terminal outright?",
+      "a": "The lease cap applies to leases and rentals. If you own the machine, check whether it can be used with another provider before you switch."
+    }
+  ],
+  "related": [
+    "switch-card-machine-provider"
+  ],
+  "sources": [
+    {
+      "title": "PSR finalises plans to help businesses save money on card services (6 October 2022)",
+      "url": "https://www.psr.org.uk/news-and-updates/latest-news/news/psr-finalises-plans-to-help-businesses-save-money-on-card-services/"
+    },
+    {
+      "title": "PS22/2 Card-acquiring market remedies: Final decision (PSR)",
+      "url": "https://www.psr.org.uk/publications/policy-statements/ps222-card-acquiring-market-remedies-final-decision/"
+    }
+  ]
+}
